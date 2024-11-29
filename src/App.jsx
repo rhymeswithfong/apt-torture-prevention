@@ -25,7 +25,16 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <div className="wrapper">
-        <h1>My Project</h1>
+        <div className="card header">
+          <h1 className="heading">My Project</h1>
+          <p className="description">
+            Welcome to my project dashboard. Here you will find visual
+            representations of data using various chart types like radar,
+            waffle, and heatmaps showcasing insights across different regions.
+            Explore the data to uncover trends and enhance your decision-making
+            process.
+          </p>
+        </div>
         <div className="card">
           <div className="chart waffle">
             <MyResponsiveWaffle data={waffleData} />
@@ -52,17 +61,17 @@ function App() {
           </div>
         </div>
         <div className="card">
-          <div className="chart heatmap-middleeast">
+          <div className="chart heatmap-middle-east">
             <MyResponsiveHeatMapMiddleEast data={heatMapDataMiddleEast} />
           </div>
         </div>
         <div className="card">
-          <div className="chart heatmap-asiapacific">
+          <div className="chart heatmap-asia-pacific">
             <MyResponsiveHeatMapAsiaPacific data={heatMapDataAsiaPacific} />
           </div>
         </div>
         <div className="card">
-          <div className="chart swarmplot">
+          <div className="chart swarm-plot">
             <MyResponsiveSwarmPlot data={swarmPlotData} />
           </div>
         </div>

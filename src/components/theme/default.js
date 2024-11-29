@@ -1,5 +1,5 @@
 export default {
-  background: "#ffffff",
+  background: "#f9f9f9",
   text: {
     fontSize: 11,
     fontFamily: "sans-serif",
