@@ -1,4 +1,6 @@
 import { useState } from "react";
+import { ThemeProvider } from "@nivo/core";
+import theme from "./components/theme/default.js";
 import MyResponsiveRadar from "./components/charts/radar.jsx";
 import MyResponsiveWaffle from "./components/charts/waffle.jsx";
 import MyResponsiveHeatMapAfrica from "./components/charts/heatmap-africa.jsx";
@@ -21,49 +23,51 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <div className="wrapper">
-      <h1>My Project</h1>
-      <div className="card">
-        <div className="chart waffle">
-          <MyResponsiveWaffle data={waffleData} />
+    <ThemeProvider theme={theme}>
+      <div className="wrapper">
+        <h1>My Project</h1>
+        <div className="card">
+          <div className="chart waffle">
+            <MyResponsiveWaffle data={waffleData} />
+          </div>
+        </div>
+        <div className="card">
+          <div className="chart radar">
+            <MyResponsiveRadar data={radarData} />
+          </div>
+        </div>
+        <div className="card">
+          <div className="chart heatmap-africa">
+            <MyResponsiveHeatMapAfrica data={heatMapDataAfrica} />
+          </div>
+        </div>
+        <div className="card">
+          <div className="chart heatmap-americas">
+            <MyResponsiveHeatMapAmericas data={heatMapDataAmericas} />
+          </div>
+        </div>
+        <div className="card">
+          <div className="chart heatmap-europe">
+            <MyResponsiveHeatMapEurope data={heatMapDataEurope} />
+          </div>
+        </div>
+        <div className="card">
+          <div className="chart heatmap-middleeast">
+            <MyResponsiveHeatMapMiddleEast data={heatMapDataMiddleEast} />
+          </div>
+        </div>
+        <div className="card">
+          <div className="chart heatmap-asiapacific">
+            <MyResponsiveHeatMapAsiaPacific data={heatMapDataAsiaPacific} />
+          </div>
+        </div>
+        <div className="card">
+          <div className="chart swarmplot">
+            <MyResponsiveSwarmPlot data={swarmPlotData} />
+          </div>
         </div>
       </div>
-      <div className="card">
-        <div className="chart radar">
-          <MyResponsiveRadar data={radarData} />
-        </div>
-      </div>
-      <div className="card">
-        <div className="chart heatmap-africa">
-          <MyResponsiveHeatMapAfrica data={heatMapDataAfrica} />
-        </div>
-      </div>
-      <div className="card">
-        <div className="chart heatmap-americas">
-          <MyResponsiveHeatMapAmericas data={heatMapDataAmericas} />
-        </div>
-      </div>
-      <div className="card">
-        <div className="chart heatmap-europe">
-          <MyResponsiveHeatMapEurope data={heatMapDataEurope} />
-        </div>
-      </div>
-      <div className="card">
-        <div className="chart heatmap-middleeast">
-          <MyResponsiveHeatMapMiddleEast data={heatMapDataMiddleEast} />
-        </div>
-      </div>
-      <div className="card">
-        <div className="chart heatmap-asiapacific">
-          <MyResponsiveHeatMapAsiaPacific data={heatMapDataAsiaPacific} />
-        </div>
-      </div>
-      <div className="card">
-        <div className="chart swarmplot">
-          <MyResponsiveSwarmPlot data={swarmPlotData} />
-        </div>
-      </div>
-    </div>
+    </ThemeProvider>
   );
 }
 
