@@ -1,0 +1,27 @@
+[
+  {
+    "id": "africa",
+    "label": "Africa",
+    "value": 51
+  },
+  {
+    "id": "americas",
+    "label": "Americas",
+    "value": 34
+  },
+  {
+    "id": "europe",
+    "label": "Europe",
+    "value": 47
+  },
+  {
+    "id": "middle east",
+    "label": "Middle East",
+    "value": 18
+  },
+  {
+    "id": "asia-pacific",
+    "label": "Asia-Pacific",
+    "value": 39
+  }
+]

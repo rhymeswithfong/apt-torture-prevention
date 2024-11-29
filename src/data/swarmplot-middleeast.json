@@ -1,0 +1,745 @@
+[
+  {
+    "id": "Bahrain",
+    "group": "UNCAT",
+    "year": 1998
+  },
+  {
+    "id": "Bahrain",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Bahrain",
+    "group": "Report",
+    "year": 2004
+  },
+  {
+    "id": "Bahrain",
+    "group": "Prohibition",
+    "year": 2002
+  },
+  {
+    "id": "Bahrain",
+    "group": "Criminalisation",
+    "year": 1984
+  },
+  {
+    "id": "Bahrain",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Bahrain",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Bahrain",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Egypt",
+    "group": "UNCAT",
+    "year": 1986
+  },
+  {
+    "id": "Egypt",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Egypt",
+    "group": "Report",
+    "year": 1993
+  },
+  {
+    "id": "Egypt",
+    "group": "Prohibition",
+    "year": 2014
+  },
+  {
+    "id": "Egypt",
+    "group": "Criminalisation",
+    "year": 1992
+  },
+  {
+    "id": "Egypt",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Egypt",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Egypt",
+    "group": "Existence",
+    "year": 2006
+  },
+
+  {
+    "id": "Iran",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Iran",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Iran",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Iran",
+    "group": "Prohibition",
+    "year": 1984
+  },
+  {
+    "id": "Iran",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Iran",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Iran",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Iran",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Iraq",
+    "group": "UNCAT",
+    "year": 2011
+  },
+
+  {
+    "id": "Israel",
+    "group": "UNCAT",
+    "year": 1991
+  },
+  {
+    "id": "Isreal",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Isreal",
+    "group": "Report",
+    "year": 1994
+  },
+  {
+    "id": "Isreal",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Isreal",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Isreal",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Isreal",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Isreal",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Iraq",
+    "group": "UNCAT",
+    "year": 2011
+  },
+  {
+    "id": "Iraq",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Iraq",
+    "group": "Report",
+    "year": 2014
+  },
+  {
+    "id": "Iraq",
+    "group": "Prohibition",
+    "year": 2005
+  },
+  {
+    "id": "Iraq",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Iraq",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Iraq",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Iraq",
+    "group": "Existence",
+    "year": 2021
+  },
+
+  {
+    "id": "Jordan",
+    "group": "UNCAT",
+    "year": 1991
+  },
+  {
+    "id": "Jordan",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Jordan",
+    "group": "Report",
+    "year": 1994
+  },
+  {
+    "id": "Jordan",
+    "group": "Prohibition",
+    "year": 2011
+  },
+  {
+    "id": "Jordan",
+    "group": "Criminalisation",
+    "year": 2017
+  },
+  {
+    "id": "Jordan",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Jordan",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Jordan",
+    "group": "Existence",
+    "year": 2007
+  },
+
+  {
+    "id": "Kuwait",
+    "group": "UNCAT",
+    "year": 1996
+  },
+  {
+    "id": "Kuwait",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Kuwait",
+    "group": "Report",
+    "year": 1997
+  },
+  {
+    "id": "Kuwait",
+    "group": "Prohibition",
+    "year": 2012
+  },
+  {
+    "id": "Kuwait",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Kuwait",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Kuwait",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Kuwait",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Lebanon",
+    "group": "UNCAT",
+    "year": 2008
+  },
+  {
+    "id": "Lebanon",
+    "group": "OPCAT",
+    "year": 2008
+  },
+  {
+    "id": "Lebanon",
+    "group": "Report",
+    "year": 2016
+  },
+  {
+    "id": "Lebanon",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Lebanon",
+    "group": "Criminalisation",
+    "year": 2009
+  },
+  {
+    "id": "Lebanon",
+    "group": "Designation",
+    "year": 2008
+  },
+  {
+    "id": "Lebanon",
+    "group": "Operationality",
+    "year": 2019
+  },
+  {
+    "id": "Lebanon",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Libya",
+    "group": "UNCAT",
+    "year": 1989
+  },
+  {
+    "id": "Libya",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Libya",
+    "group": "Report",
+    "year": 1992
+  },
+  {
+    "id": "Libya",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Libya",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Libya",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Libya",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Libya",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Morocco",
+    "group": "UNCAT",
+    "year": 1993
+  },
+  {
+    "id": "Morocco",
+    "group": "OPCAT",
+    "year": 2014
+  },
+  {
+    "id": "Morocco",
+    "group": "Report",
+    "year": 1992
+  },
+  {
+    "id": "Morocco",
+    "group": "Prohibition",
+    "year": 2011
+  },
+  {
+    "id": "Morocco",
+    "group": "Criminalisation",
+    "year": 2006
+  },
+  {
+    "id": "Morocco",
+    "group": "Designation",
+    "year": 2018
+  },
+  {
+    "id": "Morocco",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Morocco",
+    "group": "Existence",
+    "year": 1999
+  },
+
+  {
+    "id": "State of Palestine",
+    "group": "UNCAT",
+    "year": 2014
+  },
+  {
+    "id": "State of Palestine",
+    "group": "OPCAT",
+    "year": 2017
+  },
+  {
+    "id": "State of Palestine",
+    "group": "Report",
+    "year": 2019
+  },
+  {
+    "id": "State of Palestine",
+    "group": "Prohibition",
+    "year": 2003
+  },
+  {
+    "id": "State of Palestine",
+    "group": "Criminalisation",
+    "year": 2003
+  },
+  {
+    "id": "State of Palestine",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "State of Palestine",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "State of Palestine",
+    "group": "Existence",
+    "year": 2005
+  },
+
+  {
+    "id": "Oman",
+    "group": "UNCAT",
+    "year": 2020
+  },
+  {
+    "id": "Oman",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Oman",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Oman",
+    "group": "Prohibition",
+    "year": 1996
+  },
+  {
+    "id": "Oman",
+    "group": "Criminalisation",
+    "year": 2020
+  },
+  {
+    "id": "Oman",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Oman",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Oman",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Qatar",
+    "group": "UNCAT",
+    "year": 2000
+  },
+  {
+    "id": "Qatar",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Qatar",
+    "group": "Report",
+    "year": 2005
+  },
+  {
+    "id": "Qatar",
+    "group": "Prohibition",
+    "year": 2003
+  },
+  {
+    "id": "Qatar",
+    "group": "Criminalisation",
+    "year": 2014
+  },
+  {
+    "id": "Qatar",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Qatar",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Qatar",
+    "group": "Existence",
+    "year": 2009
+  },
+
+  {
+    "id": "Saudi Arabia",
+    "group": "UNCAT",
+    "year": 1997
+  },
+  {
+    "id": "Saudi Arabia",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Saudi Arabia",
+    "group": "Report",
+    "year": 2001
+  },
+  {
+    "id": "Saudi Arabia",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Saudi Arabia",
+    "group": "Criminalisation",
+    "year": 2013
+  },
+  {
+    "id": "Saudi Arabia",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Saudi Arabia",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Saudi Arabia",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Syria",
+    "group": "UNCAT",
+    "year": 2004
+  },
+  {
+    "id": "Syria",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Syria",
+    "group": "Report",
+    "year": 2001
+  },
+  {
+    "id": "Syria",
+    "group": "Prohibition",
+    "year": 2012
+  },
+  {
+    "id": "Syria",
+    "group": "Criminalisation",
+    "year": 2008
+  },
+  {
+    "id": "Syria",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Syria",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Syria",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Tunisia",
+    "group": "UNCAT",
+    "year": 1988
+  },
+  {
+    "id": "Tunisia",
+    "group": "OPCAT",
+    "year": 2011
+  },
+  {
+    "id": "Tunisia",
+    "group": "Report",
+    "year": 1997
+  },
+  {
+    "id": "Tunisia",
+    "group": "Prohibition",
+    "year": 2014
+  },
+  {
+    "id": "Tunisia",
+    "group": "Criminalisation",
+    "year": 1984
+  },
+  {
+    "id": "Tunisia",
+    "group": "Designation",
+    "year": 2013
+  },
+  {
+    "id": "Tunisia",
+    "group": "Operationality",
+    "year": 2016
+  },
+  {
+    "id": "Tunisia",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "United Arab Emirates",
+    "group": "UNCAT",
+    "year": 2012
+  },
+  {
+    "id": "United Arab Emirates",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "United Arab Emirates",
+    "group": "Report",
+    "year": 2018
+  },
+  {
+    "id": "United Arab Emirates",
+    "group": "Prohibition",
+    "year": 2012
+  },
+  {
+    "id": "United Arab Emirates",
+    "group": "Criminalisation",
+    "year": 1987
+  },
+  {
+    "id": "United Arab Emirates",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "United Arab Emirates",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "United Arab Emirates",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Yemen",
+    "group": "UNCAT",
+    "year": 1991
+  },
+  {
+    "id": "Yemen",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Yemen",
+    "group": "Report",
+    "year": 2002
+  },
+  {
+    "id": "Yemen",
+    "group": "Prohibition",
+    "year": 2015
+  },
+  {
+    "id": "Yemen",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Yemen",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Yemen",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Yemen",
+    "group": "Existence",
+    "year": 0
+  }
+]

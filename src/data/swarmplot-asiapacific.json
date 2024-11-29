@@ -1,0 +1,1846 @@
+[
+  {
+    "id": "Afghanistan",
+    "group": "UNCAT",
+    "year": 1987
+  },
+  {
+    "id": "Afghanistan",
+    "group": "OPCAT",
+    "year": 2018
+  },
+  {
+    "id": "Afghanistan",
+    "group": "Report",
+    "year": 1993
+  },
+  {
+    "id": "Afghanistan",
+    "group": "Prohibition",
+    "year": 2004
+  },
+  {
+    "id": "Afghanistan",
+    "group": "Criminalisation",
+    "year": 2021
+  },
+  {
+    "id": "Afghanistan",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Afghanistan",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Afghanistan",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Australia",
+    "group": "UNCAT",
+    "year": 1989
+  },
+  {
+    "id": "Australia",
+    "group": "OPCAT",
+    "year": 2017
+  },
+  {
+    "id": "Australia",
+    "group": "Report",
+    "year": 2000
+  },
+  {
+    "id": "Australia",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Australia",
+    "group": "Criminalisation",
+    "year": 2010
+  },
+  {
+    "id": "Australia",
+    "group": "Designation",
+    "year": 2017
+  },
+  {
+    "id": "Australia",
+    "group": "Operationality",
+    "year": 2019
+  },
+  {
+    "id": "Australia",
+    "group": "Existence",
+    "year": 1999
+  },
+
+  {
+    "id": "Azerbaijan",
+    "group": "UNCAT",
+    "year": 1996
+  },
+  {
+    "id": "Azerbaijan",
+    "group": "OPCAT",
+    "year": 2009
+  },
+  {
+    "id": "Azerbaijan",
+    "group": "Report",
+    "year": 1998
+  },
+  {
+    "id": "Azerbaijan",
+    "group": "Prohibition",
+    "year": 1995
+  },
+  {
+    "id": "Azerbaijan",
+    "group": "Criminalisation",
+    "year": 1999
+  },
+  {
+    "id": "Azerbaijan",
+    "group": "Designation",
+    "year": 2009
+  },
+  {
+    "id": "Azerbaijan",
+    "group": "Operationality",
+    "year": 2009
+  },
+  {
+    "id": "Azerbaijan",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Bangladesh",
+    "group": "UNCAT",
+    "year": 1998
+  },
+  {
+    "id": "Bangladesh",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Bangladesh",
+    "group": "Report",
+    "year": 2019
+  },
+  {
+    "id": "Bangladesh",
+    "group": "Prohibition",
+    "year": 1986
+  },
+  {
+    "id": "Bangladesh",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Bangladesh",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Bangladesh",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Bangladesh",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Bhutan",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Bhutan",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Bhutan",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Bhutan",
+    "group": "Prohibition",
+    "year": 2008
+  },
+  {
+    "id": "Bhutan",
+    "group": "Criminalisation",
+    "year": 2004
+  },
+  {
+    "id": "Bhutan",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Bhutan",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Bhutan",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Brunei Darussalam",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Brunei Darussalam",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Brunei Darussalam",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Brunei Darussalam",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Brunei Darussalam",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Brunei Darussalam",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Brunei Darussalam",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Brunei Darussalam",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Cambodia",
+    "group": "UNCAT",
+    "year": 1992
+  },
+  {
+    "id": "Cambodia",
+    "group": "OPCAT",
+    "year": 2007
+  },
+  {
+    "id": "Cambodia",
+    "group": "Report",
+    "year": 2002
+  },
+  {
+    "id": "Cambodia",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Cambodia",
+    "group": "Criminalisation",
+    "year": 2009
+  },
+  {
+    "id": "Cambodia",
+    "group": "Designation",
+    "year": 2018
+  },
+  {
+    "id": "Cambodia",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Cambodia",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "China",
+    "group": "UNCAT",
+    "year": 1988
+  },
+  {
+    "id": "China",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "China",
+    "group": "Report",
+    "year": 1989
+  },
+  {
+    "id": "China",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "China",
+    "group": "Criminalisation",
+    "year": 2014
+  },
+  {
+    "id": "China",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "China",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "China",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Cook Islands",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Cook Islands",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Cook Islands",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Cook Islands",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Cook Islands",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Cook Islands",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Cook Islands",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Cook Islands",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Democratic People's Republic of Korea",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Democratic People's Republic of Korea",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Democratic People's Republic of Korea",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Democratic People's Republic of Korea",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Democratic People's Republic of Korea",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Democratic People's Republic of Korea",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Democratic People's Republic of Korea",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Democratic People's Republic of Korea",
+    "group": "Existence",
+    "year": 2004
+  },
+
+  {
+    "id": "Fiji",
+    "group": "UNCAT",
+    "year": 2016
+  },
+  {
+    "id": "Fiji",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Fiji",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Fiji",
+    "group": "Prohibition",
+    "year": 2013
+  },
+  {
+    "id": "Fiji",
+    "group": "Criminalisation",
+    "year": 2009
+  },
+  {
+    "id": "Fiji",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Fiji",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Fiji",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "India",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "India",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "India",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "India",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "India",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "India",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "India",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "India",
+    "group": "Existence",
+    "year": 1999
+  },
+
+  {
+    "id": "Indonesia",
+    "group": "UNCAT",
+    "year": 1998
+  },
+  {
+    "id": "Indonesia",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Indonesia",
+    "group": "Report",
+    "year": 2001
+  },
+  {
+    "id": "Indonesia",
+    "group": "Prohibition",
+    "year": 2000
+  },
+  {
+    "id": "Indonesia",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Indonesia",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Indonesia",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Indonesia",
+    "group": "Existence",
+    "year": 2000
+  },
+
+  {
+    "id": "Japan",
+    "group": "UNCAT",
+    "year": 1999
+  },
+  {
+    "id": "Japan",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Japan",
+    "group": "Report",
+    "year": 2005
+  },
+  {
+    "id": "Japan",
+    "group": "Prohibition",
+    "year": 1984
+  },
+  {
+    "id": "Japan",
+    "group": "Criminalisation",
+    "year": 2006
+  },
+  {
+    "id": "Japan",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Japan",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Japan",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Kazakhstan",
+    "group": "UNCAT",
+    "year": 1998
+  },
+  {
+    "id": "Kazakhstan",
+    "group": "OPCAT",
+    "year": 2008
+  },
+  {
+    "id": "Kazakhstan",
+    "group": "Report",
+    "year": 2000
+  },
+  {
+    "id": "Kazakhstan",
+    "group": "Prohibition",
+    "year": 1995
+  },
+  {
+    "id": "Kazakhstan",
+    "group": "Criminalisation",
+    "year": 2023
+  },
+  {
+    "id": "Kazakhstan",
+    "group": "Designation",
+    "year": 2013
+  },
+  {
+    "id": "Kazakhstan",
+    "group": "Operationality",
+    "year": 2014
+  },
+  {
+    "id": "Kazakhstan",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Kiribati",
+    "group": "UNCAT",
+    "year": 2019
+  },
+  {
+    "id": "Kiribati",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Kiribati",
+    "group": "Report",
+    "year": 2023
+  },
+  {
+    "id": "Kiribati",
+    "group": "Prohibition",
+    "year": 1995
+  },
+  {
+    "id": "Kiribati",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Kiribati",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Kiribati",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Kiribati",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Kyrgyzstan",
+    "group": "UNCAT",
+    "year": 1997
+  },
+  {
+    "id": "Kyrgyzstan",
+    "group": "OPCAT",
+    "year": 2008
+  },
+  {
+    "id": "Kyrgyzstan",
+    "group": "Report",
+    "year": 1999
+  },
+  {
+    "id": "Kyrgyzstan",
+    "group": "Prohibition",
+    "year": 2010
+  },
+  {
+    "id": "Kyrgyzstan",
+    "group": "Criminalisation",
+    "year": 2021
+  },
+  {
+    "id": "Kyrgyzstan",
+    "group": "Designation",
+    "year": 2015
+  },
+  {
+    "id": "Kyrgyzstan",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Kyrgyzstan",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Lao People's Democratic Republic",
+    "group": "UNCAT",
+    "year": 2012
+  },
+  {
+    "id": "Lao People's Democratic Republic",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Lao People's Democratic Republic",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Lao People's Democratic Republic",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Lao People's Democratic Republic",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Lao People's Democratic Republic",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Lao People's Democratic Republic",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Lao People's Democratic Republic",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Malaysia",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Malaysia",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Malaysia",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Malaysia",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Malaysia",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Malaysia",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Malaysia",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Malaysia",
+    "group": "Existence",
+    "year": 2002
+  },
+
+  {
+    "id": "Marshall Islands",
+    "group": "UNCAT",
+    "year": 2018
+  },
+  {
+    "id": "Marshall Islands",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Marshall Islands",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Marshall Islands",
+    "group": "Prohibition",
+    "year": 1995
+  },
+  {
+    "id": "Marshall Islands",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Marshall Islands",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Marshall Islands",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Marshall Islands",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Micronesia",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Micronesia",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Micronesia",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Micronesia",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Micronesia",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Micronesia",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Micronesia",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Micronesia",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Mongolia",
+    "group": "UNCAT",
+    "year": 2002
+  },
+  {
+    "id": "Mongolia",
+    "group": "OPCAT",
+    "year": 2015
+  },
+  {
+    "id": "Mongolia",
+    "group": "Report",
+    "year": 2015
+  },
+  {
+    "id": "Mongolia",
+    "group": "Prohibition",
+    "year": 1992
+  },
+  {
+    "id": "Mongolia",
+    "group": "Criminalisation",
+    "year": 2015
+  },
+  {
+    "id": "Mongolia",
+    "group": "Designation",
+    "year": 2020
+  },
+  {
+    "id": "Mongolia",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Mongolia",
+    "group": "Existence",
+    "year": 2002
+  },
+
+  {
+    "id": "Myanmar",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Myanmar",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Myanmar",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Myanmar",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Myanmar",
+    "group": "Criminalisation",
+    "year": 1984
+  },
+  {
+    "id": "Myanmar",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Myanmar",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Myanmar",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Nauru",
+    "group": "UNCAT",
+    "year": 2012
+  },
+  {
+    "id": "Nauru",
+    "group": "OPCAT",
+    "year": 2013
+  },
+  {
+    "id": "Nauru",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Nauru",
+    "group": "Prohibition",
+    "year": 2016
+  },
+  {
+    "id": "Nauru",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Nauru",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Nauru",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Nauru",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Nepal",
+    "group": "UNCAT",
+    "year": 1991
+  },
+  {
+    "id": "Nepal",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Nepal",
+    "group": "Report",
+    "year": 1993
+  },
+  {
+    "id": "Nepal",
+    "group": "Prohibition",
+    "year": 2015
+  },
+  {
+    "id": "Nepal",
+    "group": "Criminalisation",
+    "year": 2018
+  },
+  {
+    "id": "Nepal",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Nepal",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Nepal",
+    "group": "Existence",
+    "year": 2001
+  },
+
+  {
+    "id": "New Zealand",
+    "group": "UNCAT",
+    "year": 1989
+  },
+  {
+    "id": "New Zealand",
+    "group": "OPCAT",
+    "year": 2007
+  },
+  {
+    "id": "New Zealand",
+    "group": "Report",
+    "year": 1992
+  },
+  {
+    "id": "New Zealand",
+    "group": "Prohibition",
+    "year": 1984
+  },
+  {
+    "id": "New Zealand",
+    "group": "Criminalisation",
+    "year": 1989
+  },
+  {
+    "id": "New Zealand",
+    "group": "Designation",
+    "year": 2007
+  },
+  {
+    "id": "New Zealand",
+    "group": "Operationality",
+    "year": 2007
+  },
+  {
+    "id": "New Zealand",
+    "group": "Existence",
+    "year": 1999
+  },
+
+  {
+    "id": "Niue",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Niue",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Niue",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Niue",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Niue",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Niue",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Niuen",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Niue",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Pakistan",
+    "group": "UNCAT",
+    "year": 2010
+  },
+  {
+    "id": "Pakistan",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Pakistan",
+    "group": "Report",
+    "year": 2016
+  },
+  {
+    "id": "Pakistan",
+    "group": "Prohibition",
+    "year": 2002
+  },
+  {
+    "id": "Pakistan",
+    "group": "Criminalisation",
+    "year": 2002
+  },
+  {
+    "id": "Pakistan",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Pakistan",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Pakistan",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Palau",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Palau",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Palau",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Palau",
+    "group": "Prohibition",
+    "year": 1992
+  },
+  {
+    "id": "Palau",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Palau",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Palau",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Palau",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Papua New Guinea",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Papua New Guinea",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Papua New Guinea",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Papua New Guinea",
+    "group": "Prohibition",
+    "year": 2013
+  },
+  {
+    "id": "Papua New Guinean",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Papua New Guinea",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Papua New Guinea",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Papua New Guinea",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Philippines",
+    "group": "UNCAT",
+    "year": 1986
+  },
+  {
+    "id": "Philippines",
+    "group": "OPCAT",
+    "year": 2012
+  },
+  {
+    "id": "Philippines",
+    "group": "Report",
+    "year": 2008
+  },
+  {
+    "id": "Philippines",
+    "group": "Prohibition",
+    "year": 1987
+  },
+  {
+    "id": "Philippines",
+    "group": "Criminalisation",
+    "year": 2009
+  },
+  {
+    "id": "Philippines",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Philippinesn",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Philippines",
+    "group": "Existence",
+    "year": 1999
+  },
+
+  {
+    "id": "Republic of Korea",
+    "group": "UNCAT",
+    "year": 1995
+  },
+  {
+    "id": "Republic of Korea",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Republic of Korea",
+    "group": "Report",
+    "year": 1996
+  },
+  {
+    "id": "Republic of Korea",
+    "group": "Prohibition",
+    "year": 1987
+  },
+  {
+    "id": "Republic of Korea",
+    "group": "Criminalisation",
+    "year": 1998
+  },
+  {
+    "id": "Republic of Korea",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Republic of Korea",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Republic of Korea",
+    "group": "Existence",
+    "year": 2004
+  },
+
+  {
+    "id": "Samoa",
+    "group": "UNCAT",
+    "year": 2019
+  },
+  {
+    "id": "Samoa",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Samoa",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Samoa",
+    "group": "Prohibition",
+    "year": 1984
+  },
+  {
+    "id": "Samoa",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Samoa",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Samoa",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Samoa",
+    "group": "Existence",
+    "year": 2016
+  },
+
+  {
+    "id": "Singapore",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Singapore",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Singapore",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Singapore",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Singapore",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Singapore",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Singaporen",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Singapore",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Solomon Islands",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Solomon Islands",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Solomon Islands",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Solomon Islands",
+    "group": "Prohibition",
+    "year": 2018
+  },
+  {
+    "id": "Solomon Islands",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Solomon Islands",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Solomon Islands",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Solomon Islands",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Sri Lanka",
+    "group": "UNCAT",
+    "year": 1994
+  },
+  {
+    "id": "Sri Lanka",
+    "group": "OPCAT",
+    "year": 2017
+  },
+  {
+    "id": "Sri Lanka",
+    "group": "Report",
+    "year": 1997
+  },
+  {
+    "id": "Sri Lankan",
+    "group": "Prohibition",
+    "year": 1984
+  },
+  {
+    "id": "Sri Lanka",
+    "group": "Criminalisation",
+    "year": 1984
+  },
+  {
+    "id": "Sri Lanka",
+    "group": "Designation",
+    "year": 2017
+  },
+  {
+    "id": "Sri Lankan",
+    "group": "Operationality",
+    "year": 2022
+  },
+  {
+    "id": "Sri Lanka",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Tajikistan",
+    "group": "UNCAT",
+    "year": 1995
+  },
+  {
+    "id": "Tajikistan",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Tajikistan",
+    "group": "Report",
+    "year": 2005
+  },
+  {
+    "id": "Tajikistan",
+    "group": "Prohibition",
+    "year": 1994
+  },
+  {
+    "id": "Tajikistan",
+    "group": "Criminalisation",
+    "year": 2012
+  },
+  {
+    "id": "Tajikistan",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Tajikistan",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Tajikistan",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Thailand",
+    "group": "UNCAT",
+    "year": 2007
+  },
+  {
+    "id": "Thailand",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Thailand",
+    "group": "Report",
+    "year": 2013
+  },
+  {
+    "id": "Thailand",
+    "group": "Prohibition",
+    "year": 2017
+  },
+  {
+    "id": "Thailand",
+    "group": "Criminalisation",
+    "year": 2022
+  },
+  {
+    "id": "Thailand",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Thailand",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Thailand",
+    "group": "Existence",
+    "year": 2004
+  },
+
+  {
+    "id": "Timor-Leste",
+    "group": "UNCAT",
+    "year": 2003
+  },
+  {
+    "id": "Timor-Leste",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Timor-Leste",
+    "group": "Report",
+    "year": 2013
+  },
+  {
+    "id": "Timor-Leste",
+    "group": "Prohibition",
+    "year": 1987
+  },
+  {
+    "id": "Timor-Leste",
+    "group": "Criminalisation",
+    "year": 2009
+  },
+  {
+    "id": "Timor-Leste",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Timor-Leste",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Timor-Leste",
+    "group": "Existence",
+    "year": 2008
+  },
+
+  {
+    "id": "Tonga",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Tonga",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Tonga",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Tonga",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Tonga",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Tonga",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Tonga",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Tonga",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Turkmenistan",
+    "group": "UNCAT",
+    "year": 1999
+  },
+  {
+    "id": "Turkmenistan",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Turkmenistan",
+    "group": "Report",
+    "year": 2010
+  },
+  {
+    "id": "Turkmenistan",
+    "group": "Prohibition",
+    "year": 2008
+  },
+  {
+    "id": "Turkmenistan",
+    "group": "Criminalisation",
+    "year": 2012
+  },
+  {
+    "id": "Turkmenistan",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Turkmenistan",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Turkmenistan",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Tuvalu",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Tuvalu",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Tuvalu",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Tuvalu",
+    "group": "Prohibition",
+    "year": 1986
+  },
+  {
+    "id": "Tuvalu",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Tuvalu",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Tuvalu",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Tuvalu",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Uzbekistan",
+    "group": "UNCAT",
+    "year": 1995
+  },
+  {
+    "id": "Uzbekistan",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Uzbekistan",
+    "group": "Report",
+    "year": 1999
+  },
+  {
+    "id": "Uzbekistan",
+    "group": "Prohibition",
+    "year": 1992
+  },
+  {
+    "id": "Uzbekistan",
+    "group": "Criminalisation",
+    "year": 2008
+  },
+  {
+    "id": "Uzbekistan",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Uzbekistan",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Uzbekistan",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Vanuatu",
+    "group": "UNCAT",
+    "year": 2011
+  },
+  {
+    "id": "Vanuatu",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Vanuatu",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Vanuatu",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Vanuatu",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Vanuatu",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Vanuatu",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Vanuatu",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Viet Nam",
+    "group": "UNCAT",
+    "year": 2015
+  },
+  {
+    "id": "Viet Nam",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Viet Nam",
+    "group": "Report",
+    "year": 2017
+  },
+  {
+    "id": "Viet Nam",
+    "group": "Prohibition",
+    "year": 1994
+  },
+  {
+    "id": "Viet Nam",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Viet Nam",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Viet Nam",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Viet Nam",
+    "group": "Existence",
+    "year": 0
+  }
+]

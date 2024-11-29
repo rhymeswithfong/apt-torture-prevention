@@ -1,0 +1,1741 @@
+[
+  {
+    "id": "Albania",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Andorra",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Armenia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Austria",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Belarus",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Belgium",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 0
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Bulgaria",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Croatia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Cyprus",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Czech Republic",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Denmark",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Estonia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Finland",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "France",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Georgia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Germany",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Greece",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Holy See",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Hungary",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Iceland",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Ireland",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Italy",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Latvia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Liechtenstein",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Lithuania",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Luxembourg",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Malta",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Monaco",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Montenegro",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Netherlands",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "North Macedonia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Norway",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Poland",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Portugal",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Republic of Moldova",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Romania",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Russia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "San Marino",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Serbia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Slovakia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Slovenia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Spain",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Sweden",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Switzerland",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Turkey",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Ukraine",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "United Kingdom",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "id": "Bahrain",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Egypt",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Iran",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 0
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Iraq",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Israel",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Jordan",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Kuwait",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Lebanon",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Libya",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Morocco",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Oman",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Qatar",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Saudi Arabia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "State of Palestine",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Syria",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Tunisia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "United Arab Emirates",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Yemen",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "indicator": "UNCAT",
+
+    "Africa": 0.96,
+    "Americas": 0.8,
+    "Europe": 1.0,
+    "Middle East": 0.94,
+    "Asia-Pacific": 0.67
+  },
+  {
+    "indicator": "OPCAT",
+
+    "Africa": 0.45,
+    "Americas": 0.43,
+    "Europe": 0.79,
+    "Middle East": 0.22,
+    "Asia-Pacific": 0.24
+  },
+  {
+    "indicator": "Report",
+
+    "Africa": 0.63,
+    "Americas": 0.6,
+    "Europe": 0.98,
+    "Middle East": 0.89,
+    "Asia-Pacific": 0.53
+  },
+  {
+    "indicator": "Prohibition",
+
+    "Africa": 0.96,
+    "Americas": 0.8,
+    "Europe": 0.72,
+    "Middle East": 0.78,
+    "Asia-Pacific": 0.67
+  },
+  {
+    "indicator": "Criminalisation",
+
+    "Africa": 0.38,
+    "Americas": 0.5,
+    "Europe": 0.43,
+    "Middle East": 0.36,
+    "Asia-Pacific": 0.32
+  },
+  {
+    "indicator": "Designation",
+
+    "Africa": 0.25,
+    "Americas": 0.4,
+    "Europe": 0.85,
+    "Middle East": 0.17,
+    "Asia-Pacific": 0.18
+  },
+  {
+    "indicator": "Operationality",
+
+    "Africa": 0.59,
+    "Americas": 0.67,
+    "Europe": 0.88,
+    "Middle East": 0.56,
+    "Asia-Pacific": 0.56
+  },
+  {
+    "indicator": "Existence",
+
+    "Africa": 0.47,
+    "Americas": 0.4,
+    "Europe": 0.55,
+    "Middle East": 0.33,
+    "Asia-Pacific": 0.29
+  }
+]

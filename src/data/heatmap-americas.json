@@ -1,0 +1,1297 @@
+[
+  {
+    "id": "Antigua and Barbuda",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Argentina",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Bahamas",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Barbados",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 0
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Belize",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Bolivia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Brazil",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Canada",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Chile",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Colombia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Costa Rica",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Cuba",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Dominica",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 0
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Dominican Republic",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Ecuador",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "El Salvador",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Grenada",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 0
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Guatemala",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Guyana",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Haiti",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 0
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Honduras",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Jamaica",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 0
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Mexico",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Nicaragua",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Panama",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Paraguay",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Peru",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Saint Kitts and Nevis",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Saint Lucia",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 0
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Saint Vincent of Grenadines",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Suriname",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Trinidad and Tobago",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 0
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 0
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "United States",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 1
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "Uruguay",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 1
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 0
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 1
+      },
+      {
+        "x": "Operationality",
+        "y": 1
+      },
+      {
+        "x": "Existence",
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "Venezuela",
+    "data": [
+      {
+        "x": "UNCAT",
+        "y": 1
+      },
+      {
+        "x": "OPCAT",
+        "y": 0
+      },
+      {
+        "x": "Report",
+        "y": 1
+      },
+      {
+        "x": "Prohibition",
+        "y": 1
+      },
+      {
+        "x": "Criminalisation",
+        "y": 0.5
+      },
+      {
+        "x": "Designation",
+        "y": 0
+      },
+      {
+        "x": "Operationality",
+        "y": 0.5
+      },
+      {
+        "x": "Existence",
+        "y": 0
+      }
+    ]
+  }
+]

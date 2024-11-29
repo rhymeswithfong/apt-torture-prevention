@@ -1,0 +1,2051 @@
+[
+  {
+    "id": "Algeria",
+    "group": "UNCAT",
+    "year": 1989
+  },
+  {
+    "id": "Algeria",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Algeria",
+    "group": "Report",
+    "year": 1996
+  },
+  {
+    "id": "Algeria",
+    "group": "Prohibition",
+    "year": 2020
+  },
+  {
+    "id": "Algeria",
+    "group": "Criminalisation",
+    "year": 2006
+  },
+  {
+    "id": "Algeria",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Algeria",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Algeria",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Angola",
+    "group": "UNCAT",
+    "year": 2019
+  },
+  {
+    "id": "Angola",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Angola",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Angola",
+    "group": "Prohibition",
+    "year": 2010
+  },
+  {
+    "id": "Angola",
+    "group": "Criminalisation",
+    "year": 2020
+  },
+  {
+    "id": "Angola",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Angola",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Angola",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Benin",
+    "group": "UNCAT",
+    "year": 1992
+  },
+  {
+    "id": "Benin",
+    "group": "OPCAT",
+    "year": 2006
+  },
+  {
+    "id": "Benin",
+    "group": "Report",
+    "year": 1996
+  },
+  {
+    "id": "Benin",
+    "group": "Prohibition",
+    "year": 1990
+  },
+  {
+    "id": "Benin",
+    "group": "Criminalisation",
+    "year": 2018
+  },
+  {
+    "id": "Benin",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Benin",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Benin",
+    "group": "Existence",
+    "year": 2022
+  },
+
+  {
+    "id": "Botswana",
+    "group": "UNCAT",
+    "year": 1999
+  },
+  {
+    "id": "Botswana",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Botswana",
+    "group": "Report",
+    "year": 2022
+  },
+  {
+    "id": "Botswana",
+    "group": "Prohibition",
+    "year": 1996
+  },
+  {
+    "id": "Botswana",
+    "group": "Criminalisation",
+    "year": 2018
+  },
+  {
+    "id": "Botswana",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Botswana",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Botswana",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Burkina Faso",
+    "group": "UNCAT",
+    "year": 1999
+  },
+  {
+    "id": "Burkina Faso",
+    "group": "OPCAT",
+    "year": 2010
+  },
+  {
+    "id": "Burkina Faso",
+    "group": "Report",
+    "year": 2012
+  },
+  {
+    "id": "Burkina Faso",
+    "group": "Prohibition",
+    "year": 1991
+  },
+  {
+    "id": "Burkina Faso",
+    "group": "Criminalisation",
+    "year": 2018
+  },
+  {
+    "id": "Burkina Faso",
+    "group": "Designation",
+    "year": 2021
+  },
+  {
+    "id": "Burkina Faso",
+    "group": "Operationality",
+    "year": 2021
+  },
+  {
+    "id": "Burkina Faso",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Burundi",
+    "group": "UNCAT",
+    "year": 1993
+  },
+  {
+    "id": "Burundi",
+    "group": "OPCAT",
+    "year": 2013
+  },
+  {
+    "id": "Burundi",
+    "group": "Report",
+    "year": 2005
+  },
+  {
+    "id": "Burundi",
+    "group": "Prohibition",
+    "year": 2018
+  },
+  {
+    "id": "Burundi",
+    "group": "Criminalisation",
+    "year": 2009
+  },
+  {
+    "id": "Burundi",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Burundi",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Burundi",
+    "group": "Existence",
+    "year": 2021
+  },
+
+  {
+    "id": "Cabo Verde",
+    "group": "UNCAT",
+    "year": 1992
+  },
+  {
+    "id": "Cabo Verde",
+    "group": "OPCAT",
+    "year": 2011
+  },
+  {
+    "id": "Cabo Verde",
+    "group": "Report",
+    "year": 2017
+  },
+  {
+    "id": "Cabo Verde",
+    "group": "Prohibition",
+    "year": 1990
+  },
+  {
+    "id": "Cabo Verde",
+    "group": "Criminalisation",
+    "year": 2021
+  },
+  {
+    "id": "Cabo Verde",
+    "group": "Designation",
+    "year": 2018
+  },
+  {
+    "id": "Cabo Verde",
+    "group": "Operationality",
+    "year": 2018
+  },
+  {
+    "id": "Cabo Verde",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Cameroon",
+    "group": "UNCAT",
+    "year": 1989
+  },
+  {
+    "id": "Cameroon",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Cameroon",
+    "group": "Report",
+    "year": 1999
+  },
+  {
+    "id": "Cameroon",
+    "group": "Prohibition",
+    "year": 1996
+  },
+  {
+    "id": "Cameroon",
+    "group": "Criminalisation",
+    "year": 2016
+  },
+  {
+    "id": "Cameroon",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Cameroon",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Cameroon",
+    "group": "Existence",
+    "year": 2010
+  },
+
+  {
+    "id": "Central African Republic",
+    "group": "UNCAT",
+    "year": 2016
+  },
+  {
+    "id": "Central African Republic",
+    "group": "OPCAT",
+    "year": 2016
+  },
+  {
+    "id": "Central African Republic",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Central African Republic",
+    "group": "Prohibition",
+    "year": 2016
+  },
+  {
+    "id": "Central African Republic",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Central African Republic",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Central African Republic",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Central African Republic",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Chad",
+    "group": "UNCAT",
+    "year": 1995
+  },
+  {
+    "id": "Chad",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Chad",
+    "group": "Report",
+    "year": 2008
+  },
+  {
+    "id": "Chad",
+    "group": "Prohibition",
+    "year": 2018
+  },
+  {
+    "id": "Chad",
+    "group": "Criminalisation",
+    "year": 2017
+  },
+  {
+    "id": "Chad",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Chad",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Chad",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Comoros",
+    "group": "UNCAT",
+    "year": 2017
+  },
+  {
+    "id": "Comoros",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Comoros",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Comoros",
+    "group": "Prohibition",
+    "year": 2018
+  },
+  {
+    "id": "Comoros",
+    "group": "Criminalisation",
+    "year": 1995
+  },
+  {
+    "id": "Comoros",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Comoros",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Comoros",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Congo",
+    "group": "UNCAT",
+    "year": 2003
+  },
+  {
+    "id": "Congo",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Congo",
+    "group": "Report",
+    "year": 2014
+  },
+  {
+    "id": "Congo",
+    "group": "Prohibition",
+    "year": 2015
+  },
+  {
+    "id": "Congo",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Congo",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Congo",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Congo",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Cote d'Ivoire",
+    "group": "UNCAT",
+    "year": 1995
+  },
+  {
+    "id": "Cote d'Ivoire",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Cote d'Ivoire",
+    "group": "Report",
+    "year": 2024
+  },
+  {
+    "id": "Cote d'Ivoire",
+    "group": "Prohibition",
+    "year": 2016
+  },
+  {
+    "id": "Cote d'Ivoire",
+    "group": "Criminalisation",
+    "year": 2024
+  },
+  {
+    "id": "Cote d'Ivoire",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Cote d'Ivoire",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Cote d'Ivoire",
+    "group": "Existence",
+    "year": 2020
+  },
+
+  {
+    "id": "Democratic Republic of the Congo",
+    "group": "UNCAT",
+    "year": 1996
+  },
+  {
+    "id": "Democratic Republic of the Congo",
+    "group": "OPCAT",
+    "year": 2010
+  },
+  {
+    "id": "Democratic Republic of the Congo",
+    "group": "Report",
+    "year": 2005
+  },
+  {
+    "id": "Democratic Republic of the Congo",
+    "group": "Prohibition",
+    "year": 2011
+  },
+  {
+    "id": "Democratic Republic of the Congo",
+    "group": "Criminalisation",
+    "year": 2008
+  },
+  {
+    "id": "Democratic Republic of the Congo",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Democratic Republic of the Congo",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Democratic Republic of the Congo",
+    "group": "Existence",
+    "year": 2018
+  },
+
+  {
+    "id": "Djibouti",
+    "group": "UNCAT",
+    "year": 2002
+  },
+  {
+    "id": "Djibouti",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Djibouti",
+    "group": "Report",
+    "year": 2010
+  },
+  {
+    "id": "Djibouti",
+    "group": "Prohibition",
+    "year": 1992
+  },
+  {
+    "id": "Djibouti",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Djibouti",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Djibouti",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Djibouti",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Equatorial Guinea",
+    "group": "UNCAT",
+    "year": 2002
+  },
+  {
+    "id": "Equatorial Guinea",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Equatorial Guinea",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Equatorial Guinea",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Equatorial Guinea",
+    "group": "Criminalisation",
+    "year": 2006
+  },
+  {
+    "id": "Equatorial Guinea",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Equatorial Guinea",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Equatorial Guinea",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Eritrea",
+    "group": "UNCAT",
+    "year": 2014
+  },
+  {
+    "id": "Eritrea",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Eritrea",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Eritrea",
+    "group": "Prohibition",
+    "year": 1997
+  },
+  {
+    "id": "Eritrea",
+    "group": "Criminalisation",
+    "year": 2019
+  },
+  {
+    "id": "Eritrea",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Eritrea",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Eritrea",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Ethiopia",
+    "group": "UNCAT",
+    "year": 1994
+  },
+  {
+    "id": "Ethiopia",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Ethiopia",
+    "group": "Report",
+    "year": 2009
+  },
+  {
+    "id": "Ethiopia",
+    "group": "Prohibition",
+    "year": 1994
+  },
+  {
+    "id": "Ethiopia",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Ethiopia",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Ethiopia",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Ethiopia",
+    "group": "Existence",
+    "year": 2021
+  },
+
+  {
+    "id": "Gabon",
+    "group": "UNCAT",
+    "year": 2000
+  },
+  {
+    "id": "Gabon",
+    "group": "OPCAT",
+    "year": 2010
+  },
+  {
+    "id": "Gabon",
+    "group": "Report",
+    "year": 2011
+  },
+  {
+    "id": "Gabon",
+    "group": "Prohibition",
+    "year": 1991
+  },
+  {
+    "id": "Gabon",
+    "group": "Criminalisation",
+    "year": 2019
+  },
+  {
+    "id": "Gabon",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Gabon",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Gabon",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Gambia",
+    "group": "UNCAT",
+    "year": 2018
+  },
+  {
+    "id": "Gambia",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Gambia",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Gambia",
+    "group": "Prohibition",
+    "year": 1996
+  },
+  {
+    "id": "Gambia",
+    "group": "Criminalisation",
+    "year": 2023
+  },
+  {
+    "id": "Gambia",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Gambia",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Gambia",
+    "group": "Existence",
+    "year": 2022
+  },
+
+  {
+    "id": "Ghana",
+    "group": "UNCAT",
+    "year": 2000
+  },
+  {
+    "id": "Ghana",
+    "group": "OPCAT",
+    "year": 2016
+  },
+  {
+    "id": "Ghana",
+    "group": "Report",
+    "year": 2009
+  },
+  {
+    "id": "Ghana",
+    "group": "Prohibition",
+    "year": 1996
+  },
+  {
+    "id": "Ghana",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Ghana",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Ghana",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Ghana",
+    "group": "Existence",
+    "year": 2001
+  },
+
+  {
+    "id": "Guinea",
+    "group": "UNCAT",
+    "year": 1989
+  },
+  {
+    "id": "Guinea",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Guinea",
+    "group": "Report",
+    "year": 2014
+  },
+  {
+    "id": "Guinea",
+    "group": "Prohibition",
+    "year": 2010
+  },
+  {
+    "id": "Guinea",
+    "group": "Criminalisation",
+    "year": 1993
+  },
+  {
+    "id": "Guinea",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Guinea",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Guinea",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Guinea-Bissau",
+    "group": "UNCAT",
+    "year": 2013
+  },
+  {
+    "id": "Guinea-Bissau",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Guinea-Bissau",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Guinea-Bissau",
+    "group": "Prohibition",
+    "year": 1996
+  },
+  {
+    "id": "Guinea-Bissau",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Guinea-Bissau",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Guinea-Bissau",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Guinea-Bissau",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Kenya",
+    "group": "UNCAT",
+    "year": 1997
+  },
+  {
+    "id": "Kenya",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Kenya",
+    "group": "Report",
+    "year": 2007
+  },
+  {
+    "id": "Kenya",
+    "group": "Prohibition",
+    "year": 2010
+  },
+  {
+    "id": "Kenya",
+    "group": "Criminalisation",
+    "year": 2017
+  },
+  {
+    "id": "Kenya",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Kenya",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Kenya",
+    "group": "Existence",
+    "year": 2005
+  },
+
+  {
+    "id": "Lesotho",
+    "group": "UNCAT",
+    "year": 2001
+  },
+  {
+    "id": "Lesotho",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Lesotho",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Lesotho",
+    "group": "Prohibition",
+    "year": 1993
+  },
+  {
+    "id": "Lesotho",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Lesotho",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Lesotho",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Lesotho",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Liberia",
+    "group": "UNCAT",
+    "year": 2004
+  },
+  {
+    "id": "Liberia",
+    "group": "OPCAT",
+    "year": 2004
+  },
+  {
+    "id": "Liberia",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Liberia",
+    "group": "Prohibition",
+    "year": 1986
+  },
+  {
+    "id": "Liberia",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Liberia",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Liberia",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Liberia",
+    "group": "Existence",
+    "year": 2017
+  },
+
+  {
+    "id": "Madagascar",
+    "group": "UNCAT",
+    "year": 2005
+  },
+  {
+    "id": "Madagascar",
+    "group": "OPCAT",
+    "year": 2017
+  },
+  {
+    "id": "Madagascar",
+    "group": "Report",
+    "year": 2010
+  },
+  {
+    "id": "Madagascar",
+    "group": "Prohibition",
+    "year": 2010
+  },
+  {
+    "id": "Madagascar",
+    "group": "Criminalisation",
+    "year": 2008
+  },
+  {
+    "id": "Madagascar",
+    "group": "Designation",
+    "year": 2018
+  },
+  {
+    "id": "Madagascar",
+    "group": "Operationality",
+    "year": 2019
+  },
+  {
+    "id": "Madagascar",
+    "group": "Existence",
+    "year": 2019
+  },
+
+  {
+    "id": "Maldives",
+    "group": "UNCAT",
+    "year": 2004
+  },
+  {
+    "id": "Maldives",
+    "group": "OPCAT",
+    "year": 2006
+  },
+  {
+    "id": "Maldives",
+    "group": "Report",
+    "year": 2017
+  },
+  {
+    "id": "Maldives",
+    "group": "Prohibition",
+    "year": 2008
+  },
+  {
+    "id": "Maldives",
+    "group": "Criminalisation",
+    "year": 2013
+  },
+  {
+    "id": "Maldives",
+    "group": "Designation",
+    "year": 2007
+  },
+  {
+    "id": "Maldives",
+    "group": "Operationality",
+    "year": 2008
+  },
+  {
+    "id": "Maldives",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Malawi",
+    "group": "UNCAT",
+    "year": 1999
+  },
+  {
+    "id": "Malawi",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Malawi",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Malawi",
+    "group": "Prohibition",
+    "year": 1994
+  },
+  {
+    "id": "Malawi",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Malawi",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Malawi",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Malawi",
+    "group": "Existence",
+    "year": 2000
+  },
+
+  {
+    "id": "Mali",
+    "group": "UNCAT",
+    "year": 1999
+  },
+  {
+    "id": "Mali",
+    "group": "OPCAT",
+    "year": 2005
+  },
+  {
+    "id": "Mali",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Mali",
+    "group": "Prohibition",
+    "year": 1992
+  },
+  {
+    "id": "Mali",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Mali",
+    "group": "Designation",
+    "year": 2016
+  },
+  {
+    "id": "Mali",
+    "group": "Operationality",
+    "year": 2016
+  },
+  {
+    "id": "Mali",
+    "group": "Existence",
+    "year": 2022
+  },
+
+  {
+    "id": "Mauritania",
+    "group": "UNCAT",
+    "year": 2004
+  },
+  {
+    "id": "Mauritania",
+    "group": "OPCAT",
+    "year": 2012
+  },
+  {
+    "id": "Mauritania",
+    "group": "Report",
+    "year": 2011
+  },
+  {
+    "id": "Mauritania",
+    "group": "Prohibition",
+    "year": 2012
+  },
+  {
+    "id": "Mauritania",
+    "group": "Criminalisation",
+    "year": 2015
+  },
+  {
+    "id": "Mauritania",
+    "group": "Designation",
+    "year": 2015
+  },
+  {
+    "id": "Mauritania",
+    "group": "Operationality",
+    "year": 2016
+  },
+  {
+    "id": "Mauritania",
+    "group": "Existence",
+    "year": 2020
+  },
+
+  {
+    "id": "Mauritius",
+    "group": "UNCAT",
+    "year": 1992
+  },
+  {
+    "id": "Mauritius",
+    "group": "OPCAT",
+    "year": 2005
+  },
+  {
+    "id": "Mauritius",
+    "group": "Report",
+    "year": 1995
+  },
+  {
+    "id": "Mauritius",
+    "group": "Prohibition",
+    "year": 1984
+  },
+  {
+    "id": "Mauritius",
+    "group": "Criminalisation",
+    "year": 2008
+  },
+  {
+    "id": "Mauritius",
+    "group": "Designation",
+    "year": 2012
+  },
+  {
+    "id": "Mauritius",
+    "group": "Operationality",
+    "year": 2014
+  },
+  {
+    "id": "Mauritius",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Namibian",
+    "group": "UNCAT",
+    "year": 1994
+  },
+  {
+    "id": "Namibia",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Namibia",
+    "group": "Report",
+    "year": 1996
+  },
+  {
+    "id": "Namibia",
+    "group": "Prohibition",
+    "year": 1990
+  },
+  {
+    "id": "Namibia",
+    "group": "Criminalisation",
+    "year": 2018
+  },
+  {
+    "id": "Namibia",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Namibia",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Namibia",
+    "group": "Existence",
+    "year": 2003
+  },
+
+  {
+    "id": "Niger",
+    "group": "UNCAT",
+    "year": 1998
+  },
+  {
+    "id": "Niger",
+    "group": "OPCAT",
+    "year": 2014
+  },
+  {
+    "id": "Niger",
+    "group": "Report",
+    "year": 2018
+  },
+  {
+    "id": "Niger",
+    "group": "Prohibition",
+    "year": 2010
+  },
+  {
+    "id": "Niger",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Niger",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Niger",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Niger",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Nigeria",
+    "group": "UNCAT",
+    "year": 2001
+  },
+  {
+    "id": "Nigeria",
+    "group": "OPCAT",
+    "year": 2009
+  },
+  {
+    "id": "Nigeria",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Nigeria",
+    "group": "Prohibition",
+    "year": 1999
+  },
+  {
+    "id": "Nigeria",
+    "group": "Criminalisation",
+    "year": 2017
+  },
+  {
+    "id": "Nigeria",
+    "group": "Designation",
+    "year": 2024
+  },
+  {
+    "id": "Nigeria",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Nigeria",
+    "group": "Existence",
+    "year": 2011
+  },
+
+  {
+    "id": "Rwanda",
+    "group": "UNCAT",
+    "year": 2008
+  },
+  {
+    "id": "Rwandan",
+    "group": "OPCAT",
+    "year": 2015
+  },
+  {
+    "id": "Rwandan",
+    "group": "Report",
+    "year": 2011
+  },
+  {
+    "id": "Rwanda",
+    "group": "Prohibition",
+    "year": 2003
+  },
+  {
+    "id": "Rwanda",
+    "group": "Criminalisation",
+    "year": 2012
+  },
+  {
+    "id": "Rwanda",
+    "group": "Designation",
+    "year": 2018
+  },
+  {
+    "id": "Rwanda",
+    "group": "Operationality",
+    "year": 2018
+  },
+  {
+    "id": "Rwanda",
+    "group": "Existence",
+    "year": 2001
+  },
+
+  {
+    "id": "Sao Tome and Principe",
+    "group": "UNCAT",
+    "year": 2017
+  },
+  {
+    "id": "Sao Tome and Principe",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Sao Tome and Principe",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Sao Tome and Principe",
+    "group": "Prohibition",
+    "year": 2003
+  },
+  {
+    "id": "Sao Tome and Principe",
+    "group": "Criminalisation",
+    "year": 2011
+  },
+  {
+    "id": "Sao Tome and Principe",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Sao Tome and Principe",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Sao Tome and Principe",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Senegal",
+    "group": "UNCAT",
+    "year": 1986
+  },
+  {
+    "id": "Senegal",
+    "group": "OPCAT",
+    "year": 2006
+  },
+  {
+    "id": "Senegal",
+    "group": "Report",
+    "year": 1995
+  },
+  {
+    "id": "Senegal",
+    "group": "Prohibition",
+    "year": 0
+  },
+  {
+    "id": "Senegal",
+    "group": "Criminalisation",
+    "year": 1999
+  },
+  {
+    "id": "Senegal",
+    "group": "Designation",
+    "year": 2009
+  },
+  {
+    "id": "Senegal",
+    "group": "Operationality",
+    "year": 2011
+  },
+  {
+    "id": "Senegal",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Seychelles",
+    "group": "UNCAT",
+    "year": 1992
+  },
+  {
+    "id": "Seychelles",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Seychelles",
+    "group": "Report",
+    "year": 2018
+  },
+  {
+    "id": "Seychelles",
+    "group": "Prohibition",
+    "year": 2017
+  },
+  {
+    "id": "Seychelles",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Seychelles",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Seychelles",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Seychelles",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Sierra Leone",
+    "group": "UNCAT",
+    "year": 2001
+  },
+  {
+    "id": "Sierra Leone",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Sierra Leone",
+    "group": "Report",
+    "year": 2013
+  },
+  {
+    "id": "Sierra Leone",
+    "group": "Prohibition",
+    "year": 2013
+  },
+  {
+    "id": "Sierra Leone",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Sierra Leone",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Sierra Leone",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Sierra Leone",
+    "group": "Existence",
+    "year": 2011
+  },
+
+  {
+    "id": "Somalia",
+    "group": "UNCAT",
+    "year": 1990
+  },
+  {
+    "id": "Somalia",
+    "group": "OPCAT",
+    "year": 2019
+  },
+  {
+    "id": "Somalia",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Somalia",
+    "group": "Prohibition",
+    "year": 2012
+  },
+  {
+    "id": "Somalia",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Somalia",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Somalia",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Somalia",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "South Africa",
+    "group": "UNCAT",
+    "year": 2015
+  },
+  {
+    "id": "South Africa",
+    "group": "OPCAT",
+    "year": 2019
+  },
+  {
+    "id": "South Africa",
+    "group": "Report",
+    "year": 2005
+  },
+  {
+    "id": "South Africa",
+    "group": "Prohibition",
+    "year": 1996
+  },
+  {
+    "id": "South Africa",
+    "group": "Criminalisation",
+    "year": 2013
+  },
+  {
+    "id": "South Africa",
+    "group": "Designation",
+    "year": 2019
+  },
+  {
+    "id": "South Africa",
+    "group": "Operationality",
+    "year": 2019
+  },
+  {
+    "id": "South Africa",
+    "group": "Existence",
+    "year": 1999
+  },
+
+  {
+    "id": "South Sudan",
+    "group": "UNCAT",
+    "year": 2015
+  },
+  {
+    "id": "South Sudan",
+    "group": "OPCAT",
+    "year": 2015
+  },
+  {
+    "id": "South Sudan",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "South Sudan",
+    "group": "Prohibition",
+    "year": 2013
+  },
+  {
+    "id": "South Sudan",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "South Sudan",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "South Sudan",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "South Sudan",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Sudan",
+    "group": "UNCAT",
+    "year": 2021
+  },
+  {
+    "id": "Sudan",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Sudan",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Sudan",
+    "group": "Prohibition",
+    "year": 2019
+  },
+  {
+    "id": "Sudan",
+    "group": "Criminalisation",
+    "year": 2019
+  },
+  {
+    "id": "Sudan",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Sudan",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Sudan",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Swaziland",
+    "group": "UNCAT",
+    "year": 2004
+  },
+  {
+    "id": "Swaziland",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Swaziland",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Swaziland",
+    "group": "Prohibition",
+    "year": 2005
+  },
+  {
+    "id": "Swaziland",
+    "group": "Criminalisation",
+    "year": 2018
+  },
+  {
+    "id": "Swaziland",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Swaziland",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Swaziland",
+    "group": "Existence",
+    "year": 0
+  },
+
+  {
+    "id": "Togo",
+    "group": "UNCAT",
+    "year": 1987
+  },
+  {
+    "id": "Togo",
+    "group": "OPCAT",
+    "year": 2010
+  },
+  {
+    "id": "Togo",
+    "group": "Report",
+    "year": 2005
+  },
+  {
+    "id": "Togo",
+    "group": "Prohibition",
+    "year": 2007
+  },
+  {
+    "id": "Togo",
+    "group": "Criminalisation",
+    "year": 2000
+  },
+  {
+    "id": "Togo",
+    "group": "Designation",
+    "year": 2018
+  },
+  {
+    "id": "Togo",
+    "group": "Operationality",
+    "year": 2019
+  },
+  {
+    "id": "Togo",
+    "group": "Existence",
+    "year": 1999
+  },
+
+  {
+    "id": "Uganda",
+    "group": "UNCAT",
+    "year": 1986
+  },
+  {
+    "id": "Uganda",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Uganda",
+    "group": "Report",
+    "year": 2004
+  },
+  {
+    "id": "Uganda",
+    "group": "Prohibition",
+    "year": 1995
+  },
+  {
+    "id": "Uganda",
+    "group": "Criminalisation",
+    "year": 2018
+  },
+  {
+    "id": "Uganda",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Uganda",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Uganda",
+    "group": "Existence",
+    "year": 2000
+  },
+
+  {
+    "id": "United Republic of Tanzania",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "United Republic of Tanzania",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "United Republic of Tanzania",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "United Republic of Tanzania",
+    "group": "Prohibition",
+    "year": 2005
+  },
+  {
+    "id": "United Republic of Tanzania",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "United Republic of Tanzania",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "United Republic of Tanzania",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "United Republic of Tanzania",
+    "group": "Existence",
+    "year": 2003
+  },
+
+  {
+    "id": "Zambia",
+    "group": "UNCAT",
+    "year": 1998
+  },
+  {
+    "id": "Zambia",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Zambia",
+    "group": "Report",
+    "year": 2000
+  },
+  {
+    "id": "Zambia",
+    "group": "Prohibition",
+    "year": 2016
+  },
+  {
+    "id": "Zambia",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Zambia",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Zambia",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Zambia",
+    "group": "Existence",
+    "year": 2003
+  },
+
+  {
+    "id": "Zimbabwe",
+    "group": "UNCAT",
+    "year": 0
+  },
+  {
+    "id": "Zimbabwe",
+    "group": "OPCAT",
+    "year": 0
+  },
+  {
+    "id": "Zimbabwe",
+    "group": "Report",
+    "year": 0
+  },
+  {
+    "id": "Zimbabwe",
+    "group": "Prohibition",
+    "year": 2017
+  },
+  {
+    "id": "Zimbabwe",
+    "group": "Criminalisation",
+    "year": 0
+  },
+  {
+    "id": "Zimbabwe",
+    "group": "Designation",
+    "year": 0
+  },
+  {
+    "id": "Zimbabwe",
+    "group": "Operationality",
+    "year": 0
+  },
+  {
+    "id": "Zimbabwe",
+    "group": "Existence",
+    "year": 2016
+  }
+]
