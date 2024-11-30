@@ -33,22 +33,28 @@
 .overview {
   display: grid;
   grid-template-columns: 1fr;
+  margin-bottom: 40px;
 }
 
 .framework {
-  /* background: yellow; */
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-bottom: 40px;
 }
 
 .regions {
   /* background: green; */
+  margin-bottom: 40px;
 }
 
 .countries {
   /* background: purple; */
+  margin-bottom: 40px;
 }
 
 .time {
   /* background: blue; */
+  margin-bottom: 40px;
 }
 
 /* CARDS */
@@ -82,12 +88,17 @@
 /* STATISTICS */
 
 .card-summary {
-  padding-bottom: 40px;
+}
+
+.top-countries {
+}
+
+.legal-rank {
+  margin-bottom: 40px;
 }
 
 .databox {
   display: grid;
-  gap: 1rem;
   grid-template-columns: repeat(2, 1fr);
   padding-top: 20px;
   border-bottom: 1px solid #000;
@@ -182,11 +193,9 @@
   .overview {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    max-height: 80%;
   }
 
   .overview h1 {
-    font-size: 2rem;
     padding-right: 40px;
   }
 
@@ -199,7 +208,9 @@
     grid-column: span 1;
     font-size: 0.8rem;
     padding-right: 40px;
-    padding-bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
   }
 
   .overview .card-chart {
@@ -215,6 +226,23 @@
   }
 
   /* FRAMEWORK SECTION */
+  .framework {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+  }
+
+  .framework h2 {
+    font-size: 1.6rem;
+    padding-right: 40px;
+  }
+
+  .framework .card-info .description {
+    padding-right: 40px;
+  }
+
+  .framework .category {
+    padding-bottom: 10px;
+  }
 
   /* GENERAL STYTLES */
 

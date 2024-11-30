@@ -32,15 +32,18 @@ function App() {
           <div className="card-info">
             <h1 className="heading">The building blocks for a better future</h1>
             <p className="description">
-              This data visualization charts our global effort and commitment
-              towards the prevention of torture over the past forty years from
-              1984 to 2024.
+              Torture still exists in many countries both in times of war and
+              peace. Often, it targets the most vulnerable and marginalized
+              groups who suffer grievous violations to their humanity and
+              dignity. This data visualization charts our global effort and
+              commitment towards the prevention of torture over the past forty
+              years from 1984 to 2024.
             </p>
           </div>
 
           <div className="card-chart">
             <div className="chart waffle">
-              <MyResponsiveWaffle data={waffleData} />
+              {/* <MyResponsiveWaffle data={waffleData} /> */}
             </div>
           </div>
 
@@ -70,32 +73,31 @@ function App() {
             <h2 className="heading">A framework and system</h2>
             <p className="description">
               The Association for the Prevention of Torture has identified eight
-              (8) key indicators that act as a criteria to measure the
-              commitment of torture prevention across all five regions in the
-              world. These measures are believed to form a solid basis for an
-              effective prevention framework and system by recognizing the legal
-              commitments made under international treaties and national
-              legislations, in addition to the creation of oversight systems
-              that help to monitor long-term progress.
+              (8) key indicators that act as a criteria to measure torture
+              prevention efforts around the world. The measures are believed to
+              form a solid basis for an effective framework and system that
+              recognizes legal commitments made under international treaties and
+              national legislations, in addition to the creation of oversight
+              systems to help monitor long-term progress.
             </p>
           </div>
 
-          <div className="card-summary">
+          <div className="card-summary legal-rank">
             <div className="databox">
               <span className="category label">Category</span>
               <span className="count label">TOTAL (BY COUNTRY)</span>
             </div>
             <div className="databox">
-              <span className="category">International Treaties</span>
-              <span className="count">82</span>
+              <span className="category highlight">International Treaties</span>
+              <span className="count highlight">82</span>
             </div>
             <div className="databox">
-              <span className="category">National Legislation</span>
-              <span className="count">22</span>
+              <span className="category highlight">National Legislation</span>
+              <span className="count highlight">22</span>
             </div>
             <div className="databox">
-              <span className="category">Oversight Systems</span>
-              <span className="count">40</span>
+              <span className="category highlight">Oversight Systems</span>
+              <span className="count highlight">40</span>
             </div>
           </div>
         </div>
@@ -154,7 +156,7 @@ function App() {
             </p>
           </div>
 
-          <div className="card-summary">
+          <div className="card-summary top-countries">
             <div className="databox border-top">
               <span className="category highlight">
                 How many countries have committed to all key indicators?
