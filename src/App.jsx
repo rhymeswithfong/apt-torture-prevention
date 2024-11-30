@@ -9,6 +9,12 @@ import MyResponsiveHeatMapEurope from "./components/charts/heatmap-europe.jsx";
 import MyResponsiveHeatMapMiddleEast from "./components/charts/heatmap-middleeast.jsx";
 import MyResponsiveHeatMapAsiaPacific from "./components/charts/heatmap-asiapacific.jsx";
 import MyResponsiveSwarmPlot from "./components/charts/swarmplot.jsx";
+import CardSummary from "./components/card-summary.jsx";
+import CardChartAfrica from "./components/card-chart-africa.jsx";
+import CardChartAmericas from "./components/card-chart-americas.jsx";
+import CardChartEurope from "./components/card-chart-europe.jsx";
+import CardChartMiddleEast from "./components/card-chart-middle-east.jsx";
+import CardChartAsiaPacific from "./components/card-chart-asiapacific.jsx";
 import radarData from "./data/radar.json";
 import waffleData from "./data/waffle.json";
 import heatMapDataAfrica from "./data/heatmap-africa.json";
@@ -154,84 +160,14 @@ function App() {
               Explore the heatmap to see how each country within their
               respective regions are performing across all eight (8) indicators.
             </p>
-
-            <div className="card-summary top-countries">
-              <div className="databox">
-                <span className="category label">Country</span>
-                <span className="count label">Status</span>
-              </div>
-              <div className="databox">
-                <span className="category">Albania</span>
-                <span className="status">Full Implementation</span>
-              </div>
-              <div className="databox">
-                <span className="category">Argentina</span>
-                <span className="status">Full Implementation</span>
-              </div>
-              <div className="databox">
-                <span className="category">Croatia</span>
-                <span className="status">Full Implementation</span>
-              </div>
-              <div className="databox">
-                <span className="category">Cyprus</span>
-                <span className="status">Full Implementation</span>
-              </div>
-              <div className="databox">
-                <span className="category">Lithuania</span>
-                <span className="status">Full Implementation</span>
-              </div>
-              <div className="databox">
-                <span className="category">Mauritania</span>
-                <span className="status">Full Implementation</span>
-              </div>
-              <div className="databox">
-                <span className="category">New Zealand</span>
-                <span className="status">Full Implementation</span>
-              </div>
-              <div className="databox">
-                <span className="category">Republic of Moldova</span>
-                <span className="status">Full Implementation</span>
-              </div>
-              <div className="databox">
-                <span className="category highlight">
-                  How many countries have committed to all key indicators?
-                </span>
-                <span className="count highlight">8</span>
-              </div>
-              <span className="footnote">by alphabetical order</span>
-            </div>
+            <CardSummary />
           </div>
 
-          <div className="card-chart">
-            <h3 className="heatmap-region">Countries in Africa</h3>
-            <div className="chart heatmap-africa">
-              <MyResponsiveHeatMapAfrica data={heatMapDataAfrica} />
-            </div>
-          </div>
-          <div className="card-chart">
-            <h3 className="heatmap-region">Countries in the Americas</h3>
-            <div className="chart heatmap-americas">
-              <MyResponsiveHeatMapAmericas data={heatMapDataAmericas} />
-            </div>
-          </div>
-          <div className="card-chart">
-            <h3 className="heatmap-region">Countries in Europe</h3>
-            <div className="chart heatmap-europe">
-              <MyResponsiveHeatMapEurope data={heatMapDataEurope} />
-            </div>
-          </div>
-          <div className="card-chart">
-            <h3 className="heatmap-region">Countries in the Middle East</h3>
-            <div className="chart heatmap-middle-east">
-              <MyResponsiveHeatMapMiddleEast data={heatMapDataMiddleEast} />
-            </div>
-          </div>
-          <div className="card-chart">
-            <h3 className="heatmap-region">Countries in Asia-Pacific</h3>
-            <div className="chart heatmap-asia-pacific">
-              <MyResponsiveHeatMapAsiaPacific data={heatMapDataAsiaPacific} />
-            </div>
-          </div>
+          <CardChartAfrica />
+          <CardChartAmericas />
+          <CardChartEurope />
+          <CardChartMiddleEast />
+          <CardChartAsiaPacific />
         </div>
 
         <div className="time">
