@@ -137,6 +137,11 @@
   font-weight: 700;
 }
 
+.status {
+  text-align: right;
+  font-style: italic;
+}
+
 .footnote {
   font-size: 0.6rem;
   font-style: italic;
