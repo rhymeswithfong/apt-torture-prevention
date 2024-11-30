@@ -2,38 +2,73 @@
   width: 100%;
   max-width: 2400px;
   margin: 0 auto;
+}
+
+.navbar {
+  background: #285391;
+  width: 100%;
+  height: 80px;
   padding: 2rem;
+  display: flex;
+  color: white;
+}
+
+.navbar .title {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  text-transform: uppercase;
+  font-size: 0.8rem;
 }
 
 .wrapper {
   width: 100%;
-  max-width: 100vw;
   display: grid;
   grid-template-columns: 1fr;
   gap: 20px;
+  padding: 2rem;
 }
 
-@media (min-width: 800px) { /* Medium breakpoint */
-  .wrapper {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  .card.header {
-    grid-column: span 2;
-  }
+.overview {
+  display: grid;
+  grid-template-columns: 1fr;
 }
 
-@media (min-width: 1280px) { /* Large breakpoint */
-  .wrapper {
-    grid-template-columns: repeat(3, 1fr);
-  }
-
-  .card.header {
-    grid-column: span 1;
-  }
+.framework {
+  /* background: yellow; */
 }
 
-.card {
+.regions {
+  /* background: green; */
+}
+
+.countries {
+  /* background: purple; */
+}
+
+.time {
+  /* background: blue; */
+}
+
+/* CARDS */
+
+.card-info {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  align-items: flex-start;
+}
+
+.card-info .heading {
+  font-weight: 500;
+}
+
+.card-info .description {
+  line-height: 1.5;
+}
+
+.card-chart {
   background: #f9f9f9;
   padding: 16px;
   border-radius: 8px;
@@ -44,20 +79,63 @@
   justify-content: center;
 }
 
-.card.header {
-  background: transparent;
-  border: none;
-  box-shadow: none;
-  align-items: flex-start;
+/* STATISTICS */
+
+.card-summary {
+  padding-bottom: 40px;
 }
 
-.card.header .heading {
+.databox {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(2, 1fr);
+  padding-top: 20px;
+  border-bottom: 1px solid #000;
 }
 
-.card.header .description {
-  font-size: 1rem;
-  line-height: 1.5;
+.databox.border-top {
+  padding-top: 20px;
+  border-top: 1px solid #000;
 }
+
+.category.label {
+  text-align: left;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+.count.label {
+  text-align: right;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.category {
+  text-align: left;
+  padding-bottom: 20px;
+}
+
+.category.highlight {
+  font-weight: 700;
+}
+
+.count {
+  text-align: right;
+  padding-bottom: 20px;
+}
+
+.count.highlight {
+  font-weight: 700;
+}
+
+.footnote {
+  font-size: 0.6rem;
+  font-style: italic;
+  padding-bottom: 20px;
+}
+
+/* CHARTS */
 
 .chart {
   width: 100%;
@@ -65,33 +143,102 @@
 }
 
 .waffle {
-  min-height: 300px;
+  height: 300px;
 }
 
 .radar {
-  min-height: 500px;
+  height: 500px;
 }
 
 .heatmap-africa {
-  min-height: 1200px;
+  height: 1200px;
 }
 
 .heatmap-americas {
-  min-height: 900px;
+  height: 900px;
 }
 
 .heatmap-europe {
-  min-height: 1100px;
+  height: 1100px;
 }
 
 .heatmap-middle-east {
-  min-height: 500px;
+  height: 500px;
 }
 
 .heatmap-asia-pacific {
-  min-height: 1000px;
+  height: 1000px;
 }
 
 .swarm-plot {
-  min-height: 500px;
+  height: 500px;
 }
+
+/* MEDIA QUERIES */
+
+@media (min-width: 768px) {
+  /* OVERVIEW SECTION */
+
+  .overview {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    max-height: 80%;
+  }
+
+  .overview h1 {
+    font-size: 2rem;
+    padding-right: 40px;
+  }
+
+  .overview .card-info .description {
+    grid-row: span 1;
+    padding-right: 40px;
+  }
+
+  .overview .card-summary {
+    grid-column: span 1;
+    font-size: 0.8rem;
+    padding-right: 40px;
+    padding-bottom: 0px;
+  }
+
+  .overview .card-chart {
+    grid-row: span 2;
+  }
+
+  .overview .databox {
+    padding-top: 10px;
+  }
+
+  .overview .category {
+    padding-bottom: 10px;
+  }
+
+  /* FRAMEWORK SECTION */
+
+  /* GENERAL STYTLES */
+
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  .category.label {
+    font-size: 0.8rem;
+    padding-bottom: 10px;
+  }
+
+  .count.label {
+    font-size: 0.8rem;
+    padding-bottom: 10px;
+  }
+}
+
+/* @media (min-width: 1280px) {
+  .wrapper {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .card-info {
+    grid-column: span 1;
+  }
+} */
