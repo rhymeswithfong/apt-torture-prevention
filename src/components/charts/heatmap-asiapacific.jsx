@@ -15,7 +15,7 @@ const MyResponsiveHeatMapAsiaPacific = ({ data }) => {
     <ResponsiveHeatMap
       data={data}
       theme={theme}
-      margin={{ top: 60, right: 90, bottom: 60, left: 90 }}
+      margin={{ top: 60, right: 60, bottom: 60, left: 200 }}
       valueFormat=">-.1r"
       axisTop={{
         tickSize: 5,
