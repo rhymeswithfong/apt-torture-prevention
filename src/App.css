@@ -89,15 +89,9 @@
 
 /* STATISTICS */
 
-.card-summary {
-}
-
 .top-countries {
   margin-top: 40px;
   margin-bottom: 40px;
-}
-
-.legal-rank {
 }
 
 .databox {
@@ -262,7 +256,6 @@
 }
 
 @media (min-width: 1024px) {
-
   /* OVERVIEW SECTION */
   .overview {
     margin-top: 2rem;
@@ -270,15 +263,6 @@
 
   .overview h1 {
     font-size: 3.2rem;
-  }
-
-  /* FRAMEWORK SECTION */
-  /* .framework {
-    margin-top: 2rem;
-  } */
-
-  .framework .card-info .description {
-    /* font-size: 1rem; */
   }
 
   /* REGIONS SECTION */
@@ -297,7 +281,7 @@
   }
 
   .regions .card-summary {
-    padding-right: 40px; */
+    padding-right: 40px;
   }
 
   .regions .card-chart {
@@ -312,7 +296,7 @@
 }
 
 @media (min-width: 1200px) {
-    /* NAV SECTION */
+  /* NAV SECTION */
 
   .navbar .title {
     font-size: 1rem;
@@ -372,3 +356,4 @@
   .count.label {
     font-size: 1rem;
   }
+}
