@@ -258,6 +258,11 @@
   .framework .card-info .description {
     font-size: 1rem;
   }
+
+  .footnote {
+    font-size: 0.8rem;
+    font-style: italic;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -268,7 +273,7 @@
   }
 
   /* OVERVIEW SECTION */
-  
+
   .overview {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto;
@@ -291,21 +296,31 @@
     font-size: 1.2rem;
   }
 
-  .category.label {
-    font-size: 1rem;
-  }
-
-  .count.label {
-    font-size: 1rem;
-  }
-
   .overview .databox {
     padding-top: 20px;
     padding-bottom: 10px;
+  }
+
+  /* FRAMEWORK SECTION */
+
+  .framework h2 {
+    font-size: 2rem;
   }
 
   /* GENERAL STYTLES */
 
   body {
     font-size: 1.2rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  .category.label {
+    font-size: 1rem;
+  }
+
+  .count.label {
+    font-size: 1rem;
   }
