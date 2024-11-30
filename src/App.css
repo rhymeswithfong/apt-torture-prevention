@@ -26,35 +26,30 @@
   width: 100%;
   display: grid;
   grid-template-columns: 1fr;
-  gap: 20px;
+  gap: 50px;
   padding: 2rem;
 }
 
 .overview {
   display: grid;
   grid-template-columns: 1fr;
-  margin-bottom: 40px;
 }
 
 .framework {
   display: grid;
   grid-template-columns: 1fr;
-  margin-bottom: 40px;
 }
 
 .regions {
   /* background: green; */
-  margin-bottom: 40px;
 }
 
 .countries {
   /* background: purple; */
-  margin-bottom: 40px;
 }
 
 .time {
   /* background: blue; */
-  margin-bottom: 40px;
 }
 
 /* CARDS */
@@ -91,10 +86,10 @@
 }
 
 .top-countries {
+  margin-bottom: 40px;
 }
 
 .legal-rank {
-  margin-bottom: 40px;
 }
 
 .databox {
@@ -143,7 +138,6 @@
 .footnote {
   font-size: 0.6rem;
   font-style: italic;
-  padding-bottom: 20px;
 }
 
 /* CHARTS */
@@ -192,7 +186,7 @@
 
   .overview {
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-rows: auto;
   }
 
   .overview h1 {
@@ -200,12 +194,10 @@
   }
 
   .overview .card-info .description {
-    grid-row: span 1;
     padding-right: 40px;
   }
 
   .overview .card-summary {
-    grid-column: span 1;
     font-size: 0.8rem;
     padding-right: 40px;
     display: flex;
@@ -228,7 +220,7 @@
   /* FRAMEWORK SECTION */
   .framework {
     grid-template-columns: repeat(2, 1fr);
-    gap: 40px;
+    grid-template-rows: auto;
   }
 
   .framework h2 {
@@ -237,12 +229,15 @@
   }
 
   .framework .card-info .description {
+    font-size: 0.8rem;
     padding-right: 40px;
   }
 
   .framework .category {
     padding-bottom: 10px;
   }
+
+  /* REGIONS SECTION */
 
   /* GENERAL STYTLES */
 
@@ -258,6 +253,12 @@
   .count.label {
     font-size: 0.8rem;
     padding-bottom: 10px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .framework .card-info .description {
+    font-size: 1rem;
   }
 }
 
