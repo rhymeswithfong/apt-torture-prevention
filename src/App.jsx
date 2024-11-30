@@ -60,7 +60,7 @@ function App() {
             </div>
             <div className="databox">
               <span className="category highlight">
-                How many countries are committing to torture prevention
+                How many countries are actively committing to prevention
                 measures?
               </span>
               <span className="count highlight">189</span>
@@ -154,6 +154,41 @@ function App() {
               Explore the heatmap to see how each country within their
               respective regions are performing across all eight (8) indicators.
             </p>
+
+            <div className="card-summary top-countries">
+              <div className="databox border-top">
+                <span className="category highlight">
+                  How many countries have committed to all key indicators?
+                </span>
+                <span className="count highlight">8</span>
+              </div>
+
+              <div className="databox">
+                <span className="category">Albania</span>
+              </div>
+              <div className="databox">
+                <span className="category">Argentina</span>
+              </div>
+              <div className="databox">
+                <span className="category">Croatia</span>
+              </div>
+              <div className="databox">
+                <span className="category">Cyprus</span>
+              </div>
+              <div className="databox">
+                <span className="category">Lithuania</span>
+              </div>
+              <div className="databox">
+                <span className="category">Mauritania</span>
+              </div>
+              <div className="databox">
+                <span className="category">New Zealand</span>
+              </div>
+              <div className="databox">
+                <span className="category">Republic of Moldova</span>
+              </div>
+              <span className="footnote">by alphabetical order</span>
+            </div>
           </div>
 
           <div className="card-chart">
@@ -185,41 +220,6 @@ function App() {
             <div className="chart heatmap-asia-pacific">
               <MyResponsiveHeatMapAsiaPacific data={heatMapDataAsiaPacific} />
             </div>
-          </div>
-
-          <div className="card-summary top-countries">
-            <div className="databox border-top">
-              <span className="category highlight">
-                How many countries have committed to all key indicators?
-              </span>
-              <span className="count highlight">8</span>
-            </div>
-
-            <div className="databox">
-              <span className="category">Albania</span>
-            </div>
-            <div className="databox">
-              <span className="category">Argentina</span>
-            </div>
-            <div className="databox">
-              <span className="category">Croatia</span>
-            </div>
-            <div className="databox">
-              <span className="category">Cyprus</span>
-            </div>
-            <div className="databox">
-              <span className="category">Lithuania</span>
-            </div>
-            <div className="databox">
-              <span className="category">Mauritania</span>
-            </div>
-            <div className="databox">
-              <span className="category">New Zealand</span>
-            </div>
-            <div className="databox">
-              <span className="category">Republic of Moldova</span>
-            </div>
-            <span className="footnote">by alphabetical order</span>
           </div>
         </div>
 

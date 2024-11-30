@@ -50,6 +50,7 @@
   /* background: purple; */
   display: grid;
   grid-template-columns: 1fr;
+  gap: 20px;
 }
 
 .time {
@@ -235,7 +236,7 @@
   }
 
   .framework .card-info .description {
-    font-size: 0.9rem;
+    /* font-size: 0.9rem; */
     padding-right: 40px;
   }
 
@@ -263,13 +264,21 @@
 @media (min-width: 1024px) {
 
   /* OVERVIEW SECTION */
+  .overview {
+    margin-top: 2rem;
+  }
+
   .overview h1 {
     font-size: 3.2rem;
   }
 
   /* FRAMEWORK SECTION */
+  /* .framework {
+    margin-top: 2rem;
+  } */
+
   .framework .card-info .description {
-    font-size: 1rem;
+    /* font-size: 1rem; */
   }
 
   /* REGIONS SECTION */
@@ -343,6 +352,8 @@
   .framework h2 {
     font-size: 2rem;
   }
+
+  /* COUNTRIES SECTION */
 
   /* GENERAL STYTLES */
 
