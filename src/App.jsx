@@ -43,7 +43,7 @@ function App() {
 
           <div className="card-chart">
             <div className="chart waffle">
-              {/* <MyResponsiveWaffle data={waffleData} /> */}
+              <MyResponsiveWaffle data={waffleData} />
             </div>
           </div>
 
@@ -115,7 +115,7 @@ function App() {
 
           <div className="card-chart">
             <div className="chart radar">
-              {/* <MyResponsiveRadar data={radarData} /> */}
+              <MyResponsiveRadar data={radarData} />
             </div>
           </div>
 
@@ -156,6 +156,37 @@ function App() {
             </p>
           </div>
 
+          <div className="card-chart">
+            <h3 className="heatmap-region">Countries in Africa</h3>
+            <div className="chart heatmap-africa">
+              <MyResponsiveHeatMapAfrica data={heatMapDataAfrica} />
+            </div>
+          </div>
+          <div className="card-chart">
+            <h3 className="heatmap-region">Countries in the Americas</h3>
+            <div className="chart heatmap-americas">
+              <MyResponsiveHeatMapAmericas data={heatMapDataAmericas} />
+            </div>
+          </div>
+          <div className="card-chart">
+            <h3 className="heatmap-region">Countries in Europe</h3>
+            <div className="chart heatmap-europe">
+              <MyResponsiveHeatMapEurope data={heatMapDataEurope} />
+            </div>
+          </div>
+          <div className="card-chart">
+            <h3 className="heatmap-region">Countries in the Middle East</h3>
+            <div className="chart heatmap-middle-east">
+              <MyResponsiveHeatMapMiddleEast data={heatMapDataMiddleEast} />
+            </div>
+          </div>
+          <div className="card-chart">
+            <h3 className="heatmap-region">Countries in Asia-Pacific</h3>
+            <div className="chart heatmap-asia-pacific">
+              <MyResponsiveHeatMapAsiaPacific data={heatMapDataAsiaPacific} />
+            </div>
+          </div>
+
           <div className="card-summary top-countries">
             <div className="databox border-top">
               <span className="category highlight">
@@ -190,32 +221,6 @@ function App() {
             </div>
             <span className="footnote">by alphabetical order</span>
           </div>
-
-          <div className="card-chart">
-            <div className="chart heatmap-africa">
-              {/* <MyResponsiveHeatMapAfrica data={heatMapDataAfrica} /> */}
-            </div>
-          </div>
-          <div className="card-chart">
-            <div className="chart heatmap-americas">
-              {/* <MyResponsiveHeatMapAmericas data={heatMapDataAmericas} /> */}
-            </div>
-          </div>
-          <div className="card-chart">
-            <div className="chart heatmap-europe">
-              {/* <MyResponsiveHeatMapEurope data={heatMapDataEurope} /> */}
-            </div>
-          </div>
-          <div className="card-chart">
-            <div className="chart heatmap-middle-east">
-              {/* <MyResponsiveHeatMapMiddleEast data={heatMapDataMiddleEast} /> */}
-            </div>
-          </div>
-          <div className="card-chart">
-            <div className="chart heatmap-asia-pacific">
-              {/* <MyResponsiveHeatMapAsiaPacific data={heatMapDataAsiaPacific} /> */}
-            </div>
-          </div>
         </div>
 
         <div className="time">
@@ -229,7 +234,7 @@ function App() {
 
           <div className="card-chart">
             <div className="chart swarm-plot">
-              {/* <MyResponsiveSwarmPlot data={swarmPlotData} /> */}
+              <MyResponsiveSwarmPlot data={swarmPlotData} />
             </div>
           </div>
         </div>

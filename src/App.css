@@ -42,14 +42,20 @@
 
 .regions {
   /* background: green; */
+  display: grid;
+  grid-template-columns: 1fr;
 }
 
 .countries {
   /* background: purple; */
+  display: grid;
+  grid-template-columns: 1fr;
 }
 
 .time {
   /* background: blue; */
+  display: grid;
+  grid-template-columns: 1fr;
 }
 
 /* CARDS */
@@ -86,6 +92,7 @@
 }
 
 .top-countries {
+  margin-top: 40px;
   margin-bottom: 40px;
 }
 
@@ -198,7 +205,6 @@
   }
 
   .overview .card-summary {
-    font-size: 0.8rem;
     padding-right: 40px;
     display: flex;
     flex-direction: column;
@@ -229,7 +235,7 @@
   }
 
   .framework .card-info .description {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     padding-right: 40px;
   }
 
@@ -255,10 +261,41 @@
 }
 
 @media (min-width: 1024px) {
+
+  /* OVERVIEW SECTION */
+  .overview h1 {
+    font-size: 3.2rem;
+  }
+
+  /* FRAMEWORK SECTION */
   .framework .card-info .description {
     font-size: 1rem;
   }
 
+  /* REGIONS SECTION */
+
+  .regions {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+  }
+
+  .regions h1 {
+    padding-right: 40px;
+  }
+
+  .regions .card-info .description {
+    padding-right: 40px;
+  }
+
+  .regions .card-summary {
+    padding-right: 40px; */
+  }
+
+  .regions .card-chart {
+    grid-row: span 2;
+  }
+
+  /* GENERAL STYTLES */
   .footnote {
     font-size: 0.8rem;
     font-style: italic;
@@ -274,7 +311,7 @@
 
   /* OVERVIEW SECTION */
 
-  .overview {
+  /* .overview {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto;
   }
@@ -299,7 +336,7 @@
   .overview .databox {
     padding-top: 20px;
     padding-bottom: 10px;
-  }
+  } */
 
   /* FRAMEWORK SECTION */
 
