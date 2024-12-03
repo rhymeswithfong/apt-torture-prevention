@@ -155,8 +155,9 @@ function App() {
         <div className="card-info">
           <h2 className="heading">How are countries performing?</h2>
           <p className="description">
-            Explore the heatmap to see how each country within their respective
-            regions are performing across all eight (8) indicators.
+            A country has achieved a "full implementation" status if it has
+            committed to all key indicators. Here are the top performing
+            countries based on this measure (as of December 2024):
           </p>
           <CardSummary />
         </div>
@@ -164,21 +165,28 @@ function App() {
 
       <div className="wrapper-countries">
         <div className="countries">
-          <div className="tabs">
-            <div className="tab-africa">
-              <span onClick={handleTabIndex(0)}>Africa</span>
-            </div>
-            <div className="tab-americas">
-              <span onClick={handleTabIndex(1)}>Americas</span>
-            </div>
-            <div className="tab-europe">
-              <span onClick={handleTabIndex(2)}>Europe</span>
-            </div>
-            <div className="tab-middleeast">
-              <span onClick={handleTabIndex(3)}>Middle East</span>
-            </div>
-            <div className="tab-asiapacific">
-              <span onClick={handleTabIndex(4)}>Asia Pacific</span>
+          <div className="card-info">
+            <h2 className="heading">Take a deeper dive into the dataset</h2>
+            <p className="description">
+              Explore the heatmap to see how each country within their
+              respective regions are performing across all eight (8) indicators.
+            </p>
+            <div className="tabs">
+              <div className="tab-africa">
+                <span onClick={handleTabIndex(0)}>Africa</span>
+              </div>
+              <div className="tab-americas">
+                <span onClick={handleTabIndex(1)}>Americas</span>
+              </div>
+              <div className="tab-europe">
+                <span onClick={handleTabIndex(2)}>Europe</span>
+              </div>
+              <div className="tab-middleeast">
+                <span onClick={handleTabIndex(3)}>Middle East</span>
+              </div>
+              <div className="tab-asiapacific">
+                <span onClick={handleTabIndex(4)}>Asia Pacific</span>
+              </div>
             </div>
           </div>
 
