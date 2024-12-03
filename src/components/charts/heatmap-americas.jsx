@@ -15,7 +15,7 @@ const MyResponsiveHeatMapAmericas = ({ data }) => {
     <ResponsiveHeatMap
       data={data}
       theme={theme}
-      margin={{ top: 60, right: 60, bottom: 60, left: 200 }}
+      margin={{ top: 90, right: 60, bottom: 60, left: 200 }}
       valueFormat=">-.1r"
       axisTop={{
         tickSize: 5,
@@ -28,7 +28,7 @@ const MyResponsiveHeatMapAmericas = ({ data }) => {
       axisLeft={{
         tickSize: 5,
         tickPadding: 5,
-        tickRotation: 0,
+        tickRotation: -30,
         legendPosition: "middle",
         legendOffset: -72,
         truncateTickAt: 0,
