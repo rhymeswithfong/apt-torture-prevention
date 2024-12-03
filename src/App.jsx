@@ -25,12 +25,14 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <nav className="navbar">
-        <div className="title">Shaping the prevention of torture</div>
+        <div className="title">The building blocks for a better future</div>
       </nav>
       <div className="wrapper-overview">
         <div className="overview">
           <div className="card-info">
-            <h1 className="heading">The building blocks for a better future</h1>
+            <h1 className="heading">
+              A Global Effort: Shaping Torture Prevention Over 40 Years
+            </h1>
             <p className="description">
               Torture still exists in many countries both in times of war and
               peace. Often, it targets the most vulnerable and marginalized
