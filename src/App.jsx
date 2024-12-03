@@ -27,7 +27,7 @@ function App() {
       <nav className="navbar">
         <div className="title">Shaping the prevention of torture</div>
       </nav>
-      <div className="wrapper">
+      <div className="wrapper-overview">
         <div className="overview">
           <div className="card-info">
             <h1 className="heading">The building blocks for a better future</h1>
@@ -43,7 +43,7 @@ function App() {
 
           <div className="card-chart">
             <div className="chart waffle">
-              {/* <MyResponsiveWaffle data={waffleData} /> */}
+              <MyResponsiveWaffle data={waffleData} />
             </div>
           </div>
 
@@ -60,14 +60,15 @@ function App() {
             </div>
             <div className="databox">
               <span className="category highlight">
-                How many countries have started implementing prevention
-                measures?
+                How many countries are implementing prevention measures?
               </span>
               <span className="count highlight">189</span>
             </div>
           </div>
         </div>
+      </div>
 
+      <div className="wrapper-framework">
         <div className="framework">
           <div className="card-info">
             <h2 className="heading">A framework and system</h2>
@@ -101,7 +102,9 @@ function App() {
             </div>
           </div>
         </div>
+      </div>
 
+      <div className="wrapper-regions">
         <div className="regions">
           <div className="card-info">
             <h2 className="heading">How are regions performing?</h2>
@@ -115,7 +118,7 @@ function App() {
 
           <div className="card-chart">
             <div className="chart radar">
-              {/* <MyResponsiveRadar data={radarData} /> */}
+              <MyResponsiveRadar data={radarData} />
             </div>
           </div>
 
@@ -146,17 +149,21 @@ function App() {
             </div>
           </div>
         </div>
+      </div>
 
+      <div className="wrapper-top-countries">
+        <div className="card-info">
+          <h2 className="heading">How are countries performing?</h2>
+          <p className="description">
+            Explore the heatmap to see how each country within their respective
+            regions are performing across all eight (8) indicators.
+          </p>
+          <CardSummary />
+        </div>
+      </div>
+
+      <div className="wrapper-countries">
         <div className="countries">
-          <div className="card-info">
-            <h2 className="heading">How are countries performing?</h2>
-            <p className="description">
-              Explore the heatmap to see how each country within their
-              respective regions are performing across all eight (8) indicators.
-            </p>
-            <CardSummary />
-          </div>
-
           <div className="tabs">
             <div className="tab-africa">
               <span onClick={handleTabIndex(0)}>Africa</span>
@@ -181,7 +188,9 @@ function App() {
           {tabIndex === 3 ? <CardChartMiddleEast /> : null}
           {tabIndex === 4 ? <CardChartAsiaPacific /> : null}
         </div>
+      </div>
 
+      <div className="wrapper-time">
         <div className="time">
           <div className="card-info">
             <h2 className="heading">How is our progress over time?</h2>
