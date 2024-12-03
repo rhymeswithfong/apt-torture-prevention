@@ -25,7 +25,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <nav className="navbar">
-        <div className="title">The architecture of torture prevention</div>
+        <div className="title">Torture Prevention Framework</div>
       </nav>
       <div className="wrapper-overview">
         <div className="overview">
