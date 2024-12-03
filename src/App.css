@@ -383,6 +383,21 @@
 }
 
 @media (min-width: 1024px) {
+  /* WRAPPER SECTION */
+
+  .navbar {
+    padding-left: 4rem;
+  }
+  .wrapper-overview,
+  .wrapper-framework,
+  .wrapper-regions,
+  .wrapper-top-countries,
+  .wrapper-countries,
+  .wrapper-time {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+
   /* OVERVIEW SECTION */
   .overview {
     margin-top: 2rem;
