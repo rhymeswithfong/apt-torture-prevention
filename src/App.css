@@ -55,9 +55,6 @@
 }
 
 .tabs {
-  display: flex;
-  flex-direction: row;
-  gap: 40px;
   color: #fff;
   font-size: 0.8rem;
   font-weight: 500;
@@ -67,6 +64,7 @@
 .tab-africa {
   background: #466d96;
   padding: 10px;
+  margin-bottom: 10px;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -80,6 +78,7 @@
 .tab-americas {
   background: #da8027;
   padding: 10px;
+  margin-bottom: 10px;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -93,6 +92,7 @@
 .tab-europe {
   background: #cb4e50;
   padding: 10px;
+  margin-bottom: 10px;
   font-weight: 500;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -107,6 +107,7 @@
 .tab-middleeast {
   background: #6aa5a0;
   padding: 10px;
+  margin-bottom: 10px;
   font-weight: 500;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -121,6 +122,7 @@
 .tab-asiapacific {
   background: #47813f;
   padding: 10px;
+  margin-bottom: 10px;
   font-weight: 500;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -319,6 +321,14 @@
 
   .framework .category {
     padding-bottom: 10px;
+  }
+
+  /* COUNTRIES SECTION */
+
+  .tabs {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
   }
 
   /* GENERAL STYTLES */

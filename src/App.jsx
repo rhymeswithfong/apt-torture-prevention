@@ -43,7 +43,7 @@ function App() {
 
           <div className="card-chart">
             <div className="chart waffle">
-              <MyResponsiveWaffle data={waffleData} />
+              {/* <MyResponsiveWaffle data={waffleData} /> */}
             </div>
           </div>
 
@@ -115,7 +115,7 @@ function App() {
 
           <div className="card-chart">
             <div className="chart radar">
-              <MyResponsiveRadar data={radarData} />
+              {/* <MyResponsiveRadar data={radarData} /> */}
             </div>
           </div>
 
