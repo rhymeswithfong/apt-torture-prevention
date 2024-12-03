@@ -25,7 +25,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <nav className="navbar">
-        <div className="title">The building blocks for a better future</div>
+        <div className="title">The architecture of torture prevention</div>
       </nav>
       <div className="wrapper-overview">
         <div className="overview">
@@ -62,10 +62,11 @@ function App() {
             </div>
             <div className="databox">
               <span className="category highlight">
-                How many countries are implementing prevention measures?
+                How many countries are taking prevention measures?
               </span>
               <span className="count highlight">189</span>
             </div>
+            <span className="footnote">last updated on Dec 2024</span>
           </div>
         </div>
       </div>
@@ -76,12 +77,14 @@ function App() {
             <h2 className="heading">A framework and system</h2>
             <p className="description">
               The Association for the Prevention of Torture has identified eight
-              (8) key indicators that act as a criteria to measure torture
-              prevention efforts around the world. The measures are believed to
-              form a solid basis for an effective framework and system that
-              recognizes legal commitments made under international treaties and
-              national legislations, in addition to the creation of oversight
-              systems to help monitor long-term progress.
+              (8) key indicators that act as a criteria to measure prevention
+              efforts around the world. The measures are believed to form a
+              solid basis for an effective framework and system that recognizes
+              legal commitments made under international treaties and national
+              legislations, in addition to the creation of oversight systems to
+              help monitor long-term commitment. Take a look at our collective
+              performance (i.e. how many countries are taking action) in each
+              category:
             </p>
           </div>
 
@@ -102,6 +105,15 @@ function App() {
               <span className="category highlight">Oversight Systems</span>
               <span className="count highlight">40</span>
             </div>
+          </div>
+
+          <div className="button">
+            <a
+              href="https://docs.google.com/spreadsheets/d/1-5QZwkHjRrgKrJiW8ZmNhO9-iAScpajM/edit?usp=sharing&ouid=114806590847645480101&rtpof=true&sd=true"
+              target="_blank"
+            >
+              See definitions
+            </a>
           </div>
         </div>
       </div>
@@ -158,8 +170,8 @@ function App() {
           <h2 className="heading">How are countries performing?</h2>
           <p className="description">
             A country has achieved a "full implementation" status if it has
-            committed to all key indicators. Here are the top performing
-            countries based on this measure (as of December 2024):
+            committed to all eight (8) key indicators. Here are the top
+            performing countries based on this measure:
           </p>
           <CardSummary />
         </div>

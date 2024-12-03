@@ -101,6 +101,8 @@
   text-transform: uppercase;
 }
 
+/* HEATMAPS */
+
 .tab-africa {
   background: #466d96;
   padding: 10px;
@@ -174,22 +176,20 @@
   transition: all 0.3s;
 }
 
+/* BEESWARM PLOT */
+
 .time {
   display: grid;
   grid-template-columns: 1fr;
 }
 
-/* CARDS */
+/* CARD STYLES */
 
 .card-info {
   background: transparent;
   border: none;
   box-shadow: none;
   align-items: flex-start;
-}
-
-.card-info .heading {
-  font-weight: 500;
 }
 
 .card-info .description {
@@ -207,7 +207,30 @@
   justify-content: center;
 }
 
-/* STATISTICS */
+/* SUMMARY STYLES */
+
+.button {
+  margin-top: 40px;
+}
+
+.button a {
+  background: #606060;
+  color: #fff;
+  font-weight: 500;
+  padding: 15px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  width: 8rem;
+
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.button:hover {
+  cursor: pointer;
+  transition: all 0.3s;
+}
 
 .databox {
   display: grid;
@@ -260,9 +283,10 @@
 .footnote {
   font-size: 0.6rem;
   font-style: italic;
+  margin-top: 10px;
 }
 
-/* CHARTS */
+/* CHART STYLES */
 
 .chart {
   width: 100%;
@@ -405,6 +429,10 @@
 
   .framework .category {
     padding-bottom: 10px;
+  }
+
+  .button {
+    margin-top: 20px;
   }
 
   /* REGIONS SECTION */
