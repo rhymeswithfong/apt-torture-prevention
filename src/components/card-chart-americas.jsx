@@ -1,3 +1,6 @@
+import MyResponsiveHeatMapAmericas from "./charts/heatmap-americas";
+import heatMapDataAmericas from "../data/heatmap-americas.json";
+
 const CardChartAmericas = () => {
   return (
     <div className="card-chart">

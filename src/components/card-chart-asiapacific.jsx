@@ -1,3 +1,6 @@
+import MyResponsiveHeatMapAsiaPacific from "./charts/heatmap-asiapacific";
+import heatMapDataAsiaPacific from "../data/heatmap-asiapacific.json";
+
 const CardChartAsiaPacific = () => {
   return (
     <div className="card-chart">

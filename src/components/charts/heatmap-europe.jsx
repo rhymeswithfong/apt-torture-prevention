@@ -29,7 +29,6 @@ const MyResponsiveHeatMapEurope = ({ data }) => {
         tickSize: 5,
         tickPadding: 5,
         tickRotation: 0,
-        // legend: "country",
         legendPosition: "middle",
         legendOffset: -72,
         truncateTickAt: 0,

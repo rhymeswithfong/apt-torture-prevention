@@ -20,6 +20,7 @@
   justify-content: left;
   text-transform: uppercase;
   font-size: 0.8rem;
+  font-weight: 500;
 }
 
 .wrapper {
@@ -53,8 +54,85 @@
   gap: 20px;
 }
 
+.tabs {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.tab-africa {
+  background: #466d96;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tab-africa:hover {
+  background: #4e79a7;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.tab-americas {
+  background: #da8027;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tab-americas:hover {
+  background: #f28e2b;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.tab-europe {
+  background: #cb4e50;
+  padding: 10px;
+  font-weight: 500;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tab-europe:hover {
+  background: #e15759;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.tab-middleeast {
+  background: #6aa5a0;
+  padding: 10px;
+  font-weight: 500;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tab-middleeast:hover {
+  background: #76b7b2;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.tab-asiapacific {
+  background: #47813f;
+  padding: 10px;
+  font-weight: 500;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tab-asiapacific:hover {
+  background: #59a14f;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
 .time {
-  /* background: blue; */
   display: grid;
   grid-template-columns: 1fr;
 }
@@ -307,42 +385,11 @@
     font-size: 1rem;
   }
 
-  /* OVERVIEW SECTION */
-
-  /* .overview {
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: auto;
-  }
-
-  .overview h1 {
-    font-size: 3.2rem;
-  }
-
-  .overview .card-info {
-    grid-column: span 1;
-  }
-
-  .overview .card-chart {
-    grid-column: span 2;
-  }
-
-  .overview .card-summary {
-    grid-column: span 1;
-    font-size: 1.2rem;
-  }
-
-  .overview .databox {
-    padding-top: 20px;
-    padding-bottom: 10px;
-  } */
-
   /* FRAMEWORK SECTION */
 
   .framework h2 {
     font-size: 2rem;
   }
-
-  /* COUNTRIES SECTION */
 
   /* GENERAL STYTLES */
 

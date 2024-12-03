@@ -3,30 +3,24 @@ import { ThemeProvider } from "@nivo/core";
 import theme from "./components/theme/default.js";
 import MyResponsiveRadar from "./components/charts/radar.jsx";
 import MyResponsiveWaffle from "./components/charts/waffle.jsx";
-import MyResponsiveHeatMapAfrica from "./components/charts/heatmap-africa.jsx";
-import MyResponsiveHeatMapAmericas from "./components/charts/heatmap-americas.jsx";
-import MyResponsiveHeatMapEurope from "./components/charts/heatmap-europe.jsx";
-import MyResponsiveHeatMapMiddleEast from "./components/charts/heatmap-middleeast.jsx";
-import MyResponsiveHeatMapAsiaPacific from "./components/charts/heatmap-asiapacific.jsx";
 import MyResponsiveSwarmPlot from "./components/charts/swarmplot.jsx";
 import CardSummary from "./components/card-summary.jsx";
 import CardChartAfrica from "./components/card-chart-africa.jsx";
 import CardChartAmericas from "./components/card-chart-americas.jsx";
 import CardChartEurope from "./components/card-chart-europe.jsx";
-import CardChartMiddleEast from "./components/card-chart-middle-east.jsx";
+import CardChartMiddleEast from "./components/card-chart-middleeast.jsx";
 import CardChartAsiaPacific from "./components/card-chart-asiapacific.jsx";
 import radarData from "./data/radar.json";
 import waffleData from "./data/waffle.json";
-import heatMapDataAfrica from "./data/heatmap-africa.json";
-import heatMapDataAmericas from "./data/heatmap-americas.json";
-import heatMapDataEurope from "./data/heatmap-europe.json";
-import heatMapDataMiddleEast from "./data/heatmap-middleeast.json";
-import heatMapDataAsiaPacific from "./data/heatmap-asiapacific.json";
 import swarmPlotData from "./data/swarmplot.json";
 import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0);
+  const [tabIndex, setTabIndex] = useState(0);
+
+  const handleTabIndex = (index) => {
+    return () => setTabIndex(index);
+  };
 
   return (
     <ThemeProvider theme={theme}>
@@ -163,11 +157,29 @@ function App() {
             <CardSummary />
           </div>
 
-          <CardChartAfrica />
-          <CardChartAmericas />
-          <CardChartEurope />
-          <CardChartMiddleEast />
-          <CardChartAsiaPacific />
+          <div className="tabs">
+            <div className="tab-africa">
+              <span onClick={handleTabIndex(0)}>Africa</span>
+            </div>
+            <div className="tab-americas">
+              <span onClick={handleTabIndex(1)}>Americas</span>
+            </div>
+            <div className="tab-europe">
+              <span onClick={handleTabIndex(2)}>Europe</span>
+            </div>
+            <div className="tab-middleeast">
+              <span onClick={handleTabIndex(3)}>Middle East</span>
+            </div>
+            <div className="tab-asiapacific">
+              <span onClick={handleTabIndex(4)}>Asia Pacific</span>
+            </div>
+          </div>
+
+          {tabIndex === 0 ? <CardChartAfrica /> : null}
+          {tabIndex === 1 ? <CardChartAmericas /> : null}
+          {tabIndex === 2 ? <CardChartEurope /> : null}
+          {tabIndex === 3 ? <CardChartMiddleEast /> : null}
+          {tabIndex === 4 ? <CardChartAsiaPacific /> : null}
         </div>
 
         <div className="time">
