@@ -32,7 +32,7 @@ const MyResponsiveSwarmPlot = ({ data }) => {
       forceStrength={4}
       simulationIterations={100}
       colors={{ scheme: "tableau10" }}
-      margin={{ top: 80, right: 100, bottom: 80, left: 100 }}
+      margin={{ top: 90, right: 100, bottom: 90, left: 100 }}
       axisTop={{
         orient: "top",
         tickSize: 10,
