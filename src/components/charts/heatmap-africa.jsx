@@ -15,7 +15,7 @@ const MyResponsiveHeatMapAfrica = ({ data }) => {
     <ResponsiveHeatMap
       data={data}
       theme={theme}
-      margin={{ top: 90, right: 60, bottom: 60, left: 160 }}
+      margin={{ top: 90, right: 60, bottom: 60, left: 120 }}
       valueFormat=">-.1r"
       axisTop={{
         tickSize: 5,
