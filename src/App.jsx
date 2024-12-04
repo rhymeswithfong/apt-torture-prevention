@@ -162,6 +162,14 @@ function App() {
               <span className="count">3.46</span>
             </div>
           </div>
+          <div className="button">
+            <a
+              href="https://docs.google.com/document/d/1jfM9rAcCAg0kfxN7wHv0QooO_oJzRSt6EJoJrf-GrjE/edit?usp=sharing"
+              target="_blank"
+            >
+              See method
+            </a>
+          </div>
         </div>
       </div>
 
