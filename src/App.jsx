@@ -240,6 +240,13 @@ function App() {
           </div>
         </div>
       </div>
+
+      <div className="wrapper-footnote">
+        <span className="footnote">
+          This project was created for Viz for Social Good by Phuong Diep on Dec
+          2024.
+        </span>
+      </div>
     </ThemeProvider>
   );
 }

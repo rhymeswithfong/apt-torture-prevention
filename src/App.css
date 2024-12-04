@@ -78,6 +78,13 @@
   padding: 2rem;
 }
 
+.wrapper-footnote {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  padding: 2rem;
+}
+
 .overview {
   display: grid;
   grid-template-columns: 1fr;
@@ -405,7 +412,8 @@
   .wrapper-regions,
   .wrapper-countries-summary,
   .wrapper-countries-chart,
-  .wrapper-time {
+  .wrapper-time,
+  .wrapper-footnote {
     padding-left: 4rem;
     padding-right: 4rem;
   }
