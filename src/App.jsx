@@ -121,7 +121,7 @@ function App() {
       <div className="wrapper-regions">
         <div className="regions">
           <div className="card-info">
-            <h2 className="heading">How are regions performing?</h2>
+            <h2 className="heading">How is each region performing?</h2>
             <p className="description">
               A scoring system has been designed to calculate the performance of
               each region based on the key indicators used to measure torture
@@ -165,50 +165,53 @@ function App() {
         </div>
       </div>
 
-      <div className="wrapper-top-countries">
-        <div className="card-info">
-          <h2 className="heading">How are countries performing?</h2>
-          <p className="description">
-            A country has achieved a "full implementation" status if it has
-            committed to all eight (8) key indicators. Here are the top
-            performing countries based on this measure:
-          </p>
-          <CardSummary />
-        </div>
-      </div>
-
       <div className="wrapper-countries">
-        <div className="countries">
+        <div className="wrapper-countries-summary">
           <div className="card-info">
-            <h2 className="heading">Take a deeper dive into the dataset</h2>
+            <h2 className="heading">How is each country performing?</h2>
             <p className="description">
-              Explore the heatmap to see how each country within their
-              respective regions are performing across all eight (8) indicators.
+              A country has achieved a "full implementation" status if it has
+              committed to all eight (8) key indicators. Here are the top
+              performing countries based on this measure:
             </p>
-            <div className="tabs">
-              <div className="tab-africa">
-                <span onClick={handleTabIndex(0)}>Africa</span>
-              </div>
-              <div className="tab-americas">
-                <span onClick={handleTabIndex(1)}>Americas</span>
-              </div>
-              <div className="tab-europe">
-                <span onClick={handleTabIndex(2)}>Europe</span>
-              </div>
-              <div className="tab-middleeast">
-                <span onClick={handleTabIndex(3)}>Middle East</span>
-              </div>
-              <div className="tab-asiapacific">
-                <span onClick={handleTabIndex(4)}>Asia Pacific</span>
+            <CardSummary />
+          </div>
+        </div>
+
+        <div className="wrapper-countries-chart">
+          <div className="countries">
+            <div className="card-info">
+              <h2 className="heading">Take a deeper dive into the dataset</h2>
+              <p className="description">
+                Explore the heatmap to see how each country within their
+                respective regions are performing across all eight (8)
+                indicators.
+              </p>
+              <div className="tabs">
+                <div className="tab-africa">
+                  <span onClick={handleTabIndex(0)}>Africa</span>
+                </div>
+                <div className="tab-americas">
+                  <span onClick={handleTabIndex(1)}>Americas</span>
+                </div>
+                <div className="tab-europe">
+                  <span onClick={handleTabIndex(2)}>Europe</span>
+                </div>
+                <div className="tab-middleeast">
+                  <span onClick={handleTabIndex(3)}>Middle East</span>
+                </div>
+                <div className="tab-asiapacific">
+                  <span onClick={handleTabIndex(4)}>Asia Pacific</span>
+                </div>
               </div>
             </div>
-          </div>
 
-          {tabIndex === 0 ? <CardChartAfrica /> : null}
-          {tabIndex === 1 ? <CardChartAmericas /> : null}
-          {tabIndex === 2 ? <CardChartEurope /> : null}
-          {tabIndex === 3 ? <CardChartMiddleEast /> : null}
-          {tabIndex === 4 ? <CardChartAsiaPacific /> : null}
+            {tabIndex === 0 ? <CardChartAfrica /> : null}
+            {tabIndex === 1 ? <CardChartAmericas /> : null}
+            {tabIndex === 2 ? <CardChartEurope /> : null}
+            {tabIndex === 3 ? <CardChartMiddleEast /> : null}
+            {tabIndex === 4 ? <CardChartAsiaPacific /> : null}
+          </div>
         </div>
       </div>
 

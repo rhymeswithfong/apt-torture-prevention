@@ -48,19 +48,25 @@
   margin-bottom: 2rem;
 }
 
-.wrapper-top-countries {
-  background: #f0f3f7;
-  width: 100%;
-  display: grid;
-  grid-template-columns: 1fr;
-  padding: 4rem 2rem;
-  margin-bottom: 2rem;
-}
-
 .wrapper-countries {
   width: 100%;
   display: grid;
   grid-template-columns: 1fr;
+}
+
+.wrapper-countries-summary {
+  background: #f0f3f7;
+  /* width: 100%;
+  display: grid;
+  grid-template-columns: 1fr; */
+  padding: 4rem 2rem;
+  margin-bottom: 2rem;
+}
+
+.wrapper-countries-chart {
+  /* width: 100%;
+  display: grid;
+  grid-template-columns: 1fr; */
   padding: 2rem;
   margin-bottom: 2rem;
 }
@@ -227,7 +233,8 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.button:hover {
+.button:hover a {
+  background: #808080;
   cursor: pointer;
   transition: all 0.3s;
 }
@@ -396,8 +403,8 @@
   .wrapper-overview,
   .wrapper-framework,
   .wrapper-regions,
-  .wrapper-top-countries,
-  .wrapper-countries,
+  .wrapper-countries-summary,
+  .wrapper-countries-chart,
   .wrapper-time {
     padding-left: 4rem;
     padding-right: 4rem;
@@ -455,6 +462,7 @@
   }
 
   .regions .card-chart {
+    /* grid-column: span 2; */
     grid-row: span 2;
   }
 
